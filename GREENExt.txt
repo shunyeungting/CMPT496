@@ -1,0 +1,72 @@
+Bad&rotten, hurtful 
+Big&large, huge 
+Boring&not interesting, dull 
+Brave&fearless, courageous 
+Clean&spotless, clear 
+Cold&cool, chilly 
+Colorful&full of color, bright 
+Creepy&spooky, scary 
+Cute&pretty, good
+Dangerous&unsafe, risky 
+Dark&without light, nearly black 
+Dirty&unclean, filthy 
+Exciting&thrilling, interesting 
+Fancy&decorated, elegant 
+Fast&speedy, quick 
+Fat&plump, thick 
+Fun&enjoyable, playful 
+Funny&silly, goofy 
+Fuzzy&furry, fuzz
+Good&not bad, fine 
+Great&very good, important 
+Hairy&not bald, furry 
+Happy&glad, jolly 
+Hard&not soft, difficult 
+Heavy&not light, bulky 
+Helpful&useful, assisting 
+Hot&very warm, heated 
+Important&valuable, worthwhile 
+Jolly&cheerful, fun 
+Juicy&wet, squishy 
+Large&big, not small 
+Light&not dark, not heavy 
+Lively&cheerful, active 
+Loud&noisy, not quiet 
+Lumpy&bumpy, clumpy 
+Mean&unkind, nasty 
+New&fresh, modern 
+Nice&pleasant, kind 
+Noisy&loud, not quiet 
+Old&not new, used 
+Pretty&good
+Quiet&silent, noiseless 
+Rough&not smooth, not gentle 
+Shaggy&bushy, stringy 
+Sharp&pointed, not rounded 
+Shiny&bright, glossy 
+Short&not long, not tall 
+Silly&foolish, goofy 
+Skinny&thin, lean 
+Slippery&slick, sliding 
+Sloppy&messy, careless 
+Slow&not fast, pokey 
+Small&little, not large 
+Smooth&not bumpy, flat 
+Soft&not hard, tender 
+Sour&bitter, tart 
+Spooky&scary, frightening 
+Stinky&smelly, bad odor 
+Strange&odd, unusual 
+Strong&powerful, forceful 
+Sweet&sugary, nice 
+Tall&not short, not low 
+Tasty&flavorful, yummy 
+Tiny&little, very small 
+Ugly&not pretty, unpleasant 
+Useful&helpful, handy 
+Warm&heated, somewhat hot 
+Weird&odd, mysterious 
+Wet&watery, soaked 
+Wild&not tame, crazy 
+Wonderful&great, excellent 
+Yucky&icky, sickening 
