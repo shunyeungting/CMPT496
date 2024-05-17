@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import torch
 import torch.nn as nn
 import random
@@ -97,11 +95,11 @@ class HumorJudge:
 
 
 class ApplesToApples:
-    def __init__(self, players, max_points, green_file, red_file):
+    def __init__(self, players):
         # Initialize players, scores, and cards.
         self.literal = LiteralJudge()
         self.humor = HumorJudge()
-        self.contrarian = None
+        self.contrarian = LiteralJudge()
         
         self.judge_types = [self.literal, self.humor, self.contrarian] # The different types of judges our agent will track
 
@@ -111,53 +109,13 @@ class ApplesToApples:
         self.player_judges = [player for player in range(int(players))] 
         self.player_judge_types = [[0,0,0] for player in range(int(players))]
 
-        self.max_points = int(max_points)
-        self.scores = {player: 0 for player in self.players}  # Initialize scores for each player
         self.hand = [] # holds the cards currently in agent hand
         self.role = None # either 1 - player, or anything else - judge
 
-        self.load_sets(red_file, green_file)
-
-    # Load both the basic set and newly provided extended set
-    def load_sets(self, red_file, green_file):
-        self.green_cards = self.get_card_sets("./WordSets/GREEN.txt", "G")
-        self.red_cards = self.get_card_sets("./WordSets/RED.txt", "R")
-
-        self.green_cards.update(self.get_card_sets(green_file, "G"))
-        self.red_cards.update(self.get_card_sets(red_file, "R"))
-
-    def game_loop(self):
-        print("I assume I am player 1!")
-        print("The other players are:", end=" ")
-        print(*self.players[1:], sep = ', ')
-        print("Please enter the red cards dealt to me, one by one.")
-        for i in range(1,8):
-            self.hand.append(input(f"Card {i}: ")) # Gets a hand of 7 cards
-
-        # Continuously play rounds until a player has reached the point limit
-        while self.max_points not in self.scores.values():
-            self.new_round()
-            self.update_judge_index()
-            
-    # Called at the start of each new round
-    def new_round(self):
-        print("---------------NEW ROUND------------------")
-        self.role = input("What is my role in this round? (1-player; anything else - judge): ")
-        if self.role == "1":
-            self.is_player()
-        else:
-            if not self.judge_index:
-                self.judge_index = self.current_judge
-            self.is_judge()
-
+    def play_hand(self, green_card):
     # Plays through one hand as the player
-    def is_player(self):
-        player_cards = []
-        green_card = input("Please enter the green card selected by the judge: ")
         if '&' in green_card:
             green_card = green_card.split('&')[0]
-        self.green_cards.pop(green_card)
-
 
         judge_type_i = self.current_judge_personality() # Finds index of the most likely current judge type based on previous rounds
         judge_type = self.judge_types[judge_type_i] # Judge type at that index
@@ -169,52 +127,23 @@ class ApplesToApples:
         elif judge_type_i == 2:
             played_card = judge_type.eval_hand(self.hand, green_card)[1] # Judge is a contrarian, finds card with least relation
         
-        player_cards.append(played_card)
         self.hand.remove(played_card)
 
-        print("The red card I play is:")
-        print(played_card)
-        winner = int(input("Please tell me which player won (number): "))
-        self.scores[winner] += 1
-        winning_card = played_card
+        return played_card
 
-        print("Now tell me the red cards the other players selected")
-        for i in range(2, len(self.players)+1):
-            player_card = input(f"Player {i}'s Card (if judge, 'None'): ")
-            if player_card != 'None':
-                if i == winner:
-                    winning_card = player_card
-                player_cards.append(player_card)
-
+    def find_round_judge(self, green_card, winning_card, round_cards):
         round_judge = self.detect_judge_type(player_cards, winning_card, green_card)
         self.update_judges(round_judge)
+        return
 
-        dealt_card = input("Now tell me the new red card I was dealt ")
+    def new_card(self, dealt_card):
         self.hand.append(dealt_card)
-
         return
 
-    # Plays through one hand as the judge
-    def is_judge(self):
-        player_cards = []
-        green_card = random.choice(list(self.green_cards.items()))
-        self.green_cards.pop(green_card[0])
-        
-        print("The green card I selected is:")
-
-        print(green_card[0])
-        print("Now tell me the red cards the other players selected")
-        for i in range(len(self.players)-1):
-            player_cards.append(input(f"Card {i+1}: "))
-        
-        winning_card = self.literal.eval_hand(player_cards, green_card[0])[0]
-
-        print("The winning card is: ")
-        print(winning_card)
-        winner = int(input("Please tell me which player won (number): "))
-        self.scores[winner] += 1
-
-        return
+    # Plays through one hand as the literal judge
+    def is_judge(self, green_card, round_cards):        
+        winning_card = self.literal.eval_hand(round_cards, green_card)[0]
+        return winning_card
 
     def current_judge_personality(self):
         current = self.current_judge
@@ -244,50 +173,8 @@ class ApplesToApples:
         else:
             self.player_judge_types[self.current_judge][judge_type] += 1 # Update the count for the judge archetype that was used last round
         return
-
-    def play_game(self):
-        self.game_loop()
-        return
         
     def update_judge_index(self):
         # Rotate the judge role among players
         self.current_judge = (self.current_judge + 1) % len(self.players)
         return
-    
-    def get_card_sets(self, filename, colour):
-        card_db = {}
-
-        try:
-            with open(filename, 'r') as file:
-                for line in file:
-                    primary, secondary  = line.strip().split('&')
-                    if colour.upper() == "R":
-                        related = secondary.strip()
-                    elif colour.upper() == "G":
-                        related = [syn.strip() for syn in secondary.split(',')]
-                    card_db[primary] = related
-            file.close()
-        except FileNotFoundError:
-            print(f"No file with name {filename}")
-
-        return card_db
-
-
-def main():    
-    players = sys.argv[1]
-    points = sys.argv[2]
-    red_file = sys.argv[3]
-    green_file = sys.argv[4]
-    
-    # players = 3
-    # points =3 
-    # red_file = "REDtest.txt"
-    # green_file = "GREENtest.txt"
-
-    game = ApplesToApples(players, points, red_file, green_file)
-
-    game.play_game()
-
-
-if __name__ == "__main__":
-    main()
