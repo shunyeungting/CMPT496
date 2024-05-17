@@ -7,6 +7,7 @@ Member:
 Arikka Cherniwchan  cherniwchana7@mymacewan.ca
 Chunyang Ding  dingc4@mymacewan.ca
 Brandon Funk  funkb22@mymacewan.ca
+Austin Countaway countawaya@mymacewan.ca
 
 Course Evaluation and Feedback:
 May 14(10%)  review literature pertinent to Apples to Apples and word matching games
