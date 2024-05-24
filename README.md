@@ -11,7 +11,7 @@ Austin Countaway countawaya@mymacewan.ca
 
 Course Evaluation and Feedback:
 May 14(10%)  review literature pertinent to Apples to Apples and word matching games
-June 28 (10%)  gather the necessary information to model  different kinds of judges
+May 28 (10%)  gather the necessary information to model  different kinds of judges
 June 18( 15%) initial proposal of a strong playing agent  which can adjust its playing strategy according to the judges “performance”
 July 2 (10%) submission of an improved and highly tunned agent
 July 16 (10%)  record and analyze the performance of the agent
