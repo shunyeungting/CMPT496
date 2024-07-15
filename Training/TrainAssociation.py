@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 """Method for training association with SentenceTransformers from https://www.sbert.net/docs/training/overview.html"""
 
 # Load dataset
-df = pd.read_csv('dataset.csv')
+df = pd.read_parquet("hf://datasets/gimmaru/tweet_eval-irony/data/test-00000-of-00001-79cc8bf9a4688632.parquet")
 
 # Load a pre-trained sentence transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
