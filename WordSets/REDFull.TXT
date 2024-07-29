@@ -1,0 +1,612 @@
+Adorable 
+Ancient 
+Animated 
+Arrogant 
+Awkward 
+Boisterous 
+Boring 
+Brilliant 
+Calm 
+Casual 
+Charming 
+Cheesy 
+Colorful 
+Cool 
+Corrupt 
+Courageous 
+Crazed 
+Creative 
+Creepy 
+Cuddly 
+Dainty 
+Dangerous 
+Delicate 
+Delicious 
+Demanding 
+Desperate 
+Distinguished 
+Dramatic 
+Earthy 
+Easy 
+Expensive 
+Extreme 
+Fabulous 
+Feminine 
+Filthy 
+Flirtatious 
+Fragrant 
+Frazzled 
+Fresh 
+Frightening 
+Graceful 
+Handsome 
+Hardworking 
+Hilarious 
+Honorable 
+Hopeless 
+Horrifying 
+Hostile 
+Idiotic 
+Important 
+Industrious 
+Influential 
+Inspirational 
+Loud 
+Lucky 
+Luscious 
+Luxurious 
+Magical 
+Masculine 
+Mischievous 
+Misunderstood 
+Nasty 
+Nerdy 
+Normal 
+Obnoxious 
+Odd 
+Offensive 
+Outrageous 
+Patriotic 
+Perfect 
+Phony 
+Powerful 
+Primitive 
+Principled 
+Profound 
+Pure 
+Radical 
+Responsible 
+Rich 
+Ridiculous 
+Rough 
+Saintly 
+Sappy 
+Scary 
+Selfish 
+Sensitive 
+Sensual 
+Sexy 
+Smooth 
+Soft 
+Speedy 
+Stereotyped 
+Stunning 
+Sweet 
+Swift 
+Talented 
+Temperamental 
+Timeless 
+Touchy
+Trustworthy 
+Unforgettable 
+Unscrupulous 
+Visionary 
+Wicked 
+Wild 
+Zany 
+Cosmopolitan 
+Cruel 
+Dull 
+Frivolous 
+Melodramatic 
+Unbelievable 
+Addictive 
+Annoying 
+Awesome 
+Believable 
+Bogus 
+Bold 
+Bright 
+Chewy 
+Chunky 
+Classic 
+Clueless 
+Complicated 
+Confused 
+Cowardly 
+Crazy 
+Deadly 
+Delightful 
+Dignified 
+Disturbing 
+Dreamy 
+Exciting 
+Explosive 
+Fancy 
+Fantastic 
+Foreign 
+Funky 
+Funny 
+Furious 
+Glamorous 
+Harmful 
+Heartless 
+Hot 
+Intelligent 
+Intense 
+Irritating 
+Juicy 
+Lovable 
+Mysterious 
+Naive 
+Natural 
+Overwhelming 
+Painful 
+Peaceful 
+Philosophical 
+Playful 
+Radiant 
+Rare 
+Realistic 
+Refreshing 
+Revolutionary 
+Risky 
+Scenic 
+Shiny 
+Shocking 
+Shy 
+Silly 
+Spicy 
+Spiritual 
+Spooky 
+Spunky 
+Squeaky Clean 
+Technological 
+Tough 
+Useless 
+Violent 
+Weird 
+Witty 
+Woebegone 
+Worldly 
+Clear 
+Square 
+Absurd 
+Aged 
+American 
+Appetizing 
+Busy 
+Charismatic 
+Clean 
+Cold 
+Comfortable 
+Comical 
+Cosmic 
+Cranky 
+Cute 
+Dead 
+Depressing 
+Dirty 
+Dysfunctional 
+Eccentric 
+Elitist 
+Emotional 
+Eternal 
+European 
+Exhausting 
+Exquisite 
+Fake 
+Friendly 
+Fuzzy 
+Glitzy 
+Global 
+Glorious 
+Goody
+Haunting 
+Healthy 
+Innocent 
+Insane 
+Insulting 
+Irresistible 
+Lazy 
+Legendary 
+Manly 
+Meek 
+Miserable 
+Mystical 
+Neat 
+Neglected 
+Organic 
+Pathetic 
+Popular 
+Puffy 
+Quiet 
+Refined 
+Relaxing 
+Repulsive 
+Senseless 
+Shallow 
+Sharp 
+Smart 
+Smelly 
+Snappy 
+Sultry 
+Tame 
+Twisted 
+Unhealthy 
+Unnatural 
+Unreal 
+Unusual 
+Virtuous 
+Abundant 
+Fine 
+Orderly 
+Warm 
+Amazing 
+Attractive 
+Bashful 
+Brutal 
+Clever 
+Clumsy 
+Conceited 
+Controversial 
+Cozy 
+Crisp 
+Dark 
+Dashing 
+Devious 
+Edgy 
+Enchanting 
+Endangered 
+Energetic 
+Enjoyable 
+Enormous 
+Entertaining 
+Evil 
+Famous 
+Fashionable 
+Fast 
+Flaky 
+Flamboyant 
+Flavorful 
+Flawed 
+Fragile 
+Fun 
+Gloomy 
+Goofy 
+Gorgeous 
+Grueling 
+Gruesome 
+Grungy 
+Handy 
+Harsh 
+Hazardous 
+Huge 
+Humorous 
+Icky 
+Ideal 
+Jolly 
+Mean 
+Mesmerizing 
+Messy 
+Modern 
+Nutty 
+Obscene 
+Old 
+Perverse 
+Pretty 
+Raw 
+Respectable 
+Secretive 
+Sensational 
+Sickening 
+Sluggish 
+Sophisticated 
+Special 
+Stupid 
+Tasty 
+Tempting 
+Tender 
+Terrific 
+Tormenting 
+Trashy 
+Vain 
+Whimsical 
+Wired 
+Armed & Dangerous 
+Big & Tall 
+Black & Blue 
+Black & White 
+Brains & Brawn 
+Bright & Shining 
+Cool & Collected 
+Creepy & Crawly 
+Crisp & Delicious 
+Cruel & Unusual 
+Cut & Dried 
+Cute & Cuddly 
+Dazed & Confused 
+Dead & Gone 
+Down & Dirty 
+Down & Out 
+Drunk & Disorderly 
+Dumb & Dumber 
+Fast & Furious 
+Fast & Loose 
+Fat & Happy 
+Foot Loose & Fancy Free 
+Hale & Hearty 
+High & Dry 
+High & Low 
+High & Mighty 
+Hit & Miss 
+Hot & Bothered 
+Hot & Cold 
+Hot & Heavy 
+Hot & Muggy 
+Hot & Spicy 
+Hot & Sweaty 
+Lean & Mean 
+Lewd & Lascivious 
+Light & Fluffy 
+Long & Lean 
+Loud & Clear 
+Meek & Mild 
+Naughty & Nice 
+Neat & Clean 
+New & Improved 
+Old & Cranky 
+Old & Wise 
+On The Up & Up 
+Plain & Simple 
+Plug & Play 
+Plump & Tender 
+Prim & Proper 
+Quick & Dirty 
+Rough & Ready 
+Short & Stout 
+Short & Sweet 
+Sick & Tired 
+Sick & Twisted 
+Slow & Steady 
+Smooth & Creamy 
+Spic & Span 
+Swift & Sure 
+Thick & Chunky 
+Torn & Tattered 
+Touch & Go 
+Tried & True 
+True & Blue 
+Up & Coming 
+Up & Down 
+Warm & Cozy 
+Warm & Fuzzy 
+Wash & Wear 
+Wild & Wooly 
+Young & Restless 
+Amazing 
+Awful 
+Beautiful 
+Bumpy 
+Busy 
+Calm 
+Careful 
+Cheerful 
+Chewy 
+Clumsy 
+Comfortable 
+Cool 
+Cozy 
+Crazy 
+Crunchy 
+Cuddly 
+Delicate 
+Delicious 
+Dull 
+Easy 
+Enjoyable 
+Excellent 
+Expensive 
+Fragile 
+Fresh 
+Friendly 
+Frightening 
+Furry 
+Gentle 
+Goofy 
+Harmful 
+Healthy 
+Honest 
+Horrible 
+Huge 
+Kind 
+Lazy 
+Little 
+Loving 
+Lucky 
+Messy 
+Mushy 
+Neat 
+Odd 
+Painful 
+Peaceful 
+Plain 
+Playful 
+Powerful 
+Proud 
+Quick 
+Relaxed 
+Round 
+Sad 
+Scary 
+Serious 
+Silent 
+Silky 
+Simple 
+Skillful 
+Slimy 
+Smart 
+Smelly 
+Talented 
+Tame 
+Thin 
+Tough 
+Trustworthy 
+Unhappy 
+Useless 
+Weak 
+Young 
+Adorable 
+Annoying 
+Attractive 
+Best 
+Bitter 
+Bold 
+Bright 
+Caring 
+Charming 
+Chubby 
+Confusing 
+Costly 
+Courageous 
+Crooked 
+Curved 
+Dainty 
+Daring 
+Difficult 
+Disgusting 
+Dumb 
+Elderly 
+Energetic 
+Enormous 
+Entertaining 
+Famous 
+Fascinating 
+Favorite 
+Fearful 
+Flat 
+Flavorful 
+Frail 
+Gigantic 
+Gorgeous 
+Graceful 
+Handy 
+Hardworking 
+Interesting 
+Long 
+Lovable 
+Magical 
+Miserable 
+Mysterious 
+Nasty 
+Natural 
+Ordinary 
+Pale 
+Perfect 
+Pleasant 
+Polite 
+Poor 
+Practical 
+Rich 
+Scented 
+Shy 
+Sickening 
+Slender 
+Sneaky 
+Special 
+Speedy 
+Sporty 
+Spotless 
+Sticky 
+Straight 
+Surprising 
+Terrible 
+Thick 
+Thoughtful 
+Unforgettable 
+Untamed 
+Valuable 
+Wide 
+Worthless 
+Bad 
+Big 
+Boring 
+Brave 
+Clean 
+Cold 
+Colorful 
+Creepy 
+Cute 
+Dangerous 
+Dark 
+Dirty 
+Exciting 
+Fancy 
+Fast 
+Fat 
+Fun 
+Funny 
+Fuzzy 
+Good 
+Great 
+Hairy 
+Happy 
+Hard 
+Heavy 
+Helpful 
+Hot 
+Important 
+Jolly 
+Juicy 
+Large 
+Light 
+Lively 
+Loud 
+Lumpy 
+Mean 
+New 
+Nice 
+Noisy 
+Old 
+Pretty 
+Quiet 
+Rough 
+Shaggy 
+Sharp 
+Shiny 
+Short 
+Silly 
+Skinny 
+Slippery 
+Sloppy 
+Slow 
+Small 
+Smooth 
+Soft 
+Sour 
+Spooky 
+Stinky 
+Strange 
+Strong 
+Sweet 
+Tall 
+Tasty 
+Tiny 
+Ugly 
+Useful 
+Warm 
+Weird 
+Wet 
+Wild 
+Wonderful
+Yucky
