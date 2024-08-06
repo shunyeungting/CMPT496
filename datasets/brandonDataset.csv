@@ -1,0 +1,400 @@
+Noun,Noun_Description,Adjective,Adjective_Synonyms,Rating,Is_Humorous,Sentiment,Is_Ironic,Is_Punny
+Skydiving,Parachute canopies are usually made from nylon fabric that lasts for thousands of jumps  whether the skydiver does or not.,Selfish,"stingy, greedy, miserly",0.2,1,-1,1,0
+The Electric Chair,"In U.S. prisons, an alternating current of about 2000 volts is used for electrocution.",Delicate,"dainty, tender, elegant",-0.1,1,-1,1,0
+Italy,"European Republic, shaped like a boot  a very fashionable boot.",Talented,"gifted, clever, skillful",0.1,0,1,0,0
+Spit,"Ladies and gentlemen, straight from the Salivary Glands ...",Corrupt,"dishonest, underhanded, shady",0.2,1,-1,0,0
+My Family,"They'll drive you nuts. As long as you do the same to them, it's all even.",Outrageous,"shocking, scandalous, disgraceful",0.5,1,-1,0,0
+"Paris, France","The governmental, cultural and gastronomic capital of France. Or the world. Just ask the French.",Corrupt,"dishonest, underhanded, shady",0.3,1,-1,0,0
+Infomercials,"One of these days, one of them may even say something informative.",Zany,"crazy, funny, wacky",0.4,1,1,0,0
+A Flat Tire,"""Whaddya mean, there's no spare?""",Saintly,"virtuous, angelic, divine",-0.2,1,1,1,0
+Japan,"An Asian constitutional monarchy. The capital city is Tokyo. Let's see ... sushi, Godzilla, earthquakes ...",Pure,"innocent, unadulterated, chaste",0.1,0,-1,0,0
+Cow,"Pies  When dried, these ""cow chips"" are hurled discuslike over great distances. It's true.",Crazed,"insane, wild, deranged",0.4,1,1,0,0
+Bad Dogs,"Bad dog, bad dog. What'cha gonna do?",Distinguished,"dignified, extraordinary, acclaimed",0,0,1,1,0
+Silk,"Produced as a cocoon covering by the silk worm, and used in fine fabrics and textiles.",Brilliant,"dazzling, gleaming, intelligent",0.5,0,1,0,0
+Hawaii,"The eight islands that make up America's 50th state entered the Union on August 21, 1959.",Boisterous,"loud, rambunctious, rowdy",0.2,0,1,0,0
+A Locker Room,Steamy atmosphere ... bawdy humor ... sweaty bodies ... HEY! Sounds like Cable TV!,Outrageous,"shocking, scandalous, disgraceful",0.4,1,1,0,0
+The NRA,National Rifle Association. They're gunning for your vote.,Extreme,"exceptional, superlative, radical",0.6,0,-1,0,0
+Bad Dogs,"Bad dog, bad dog. What'cha gonna do?",Delicious,"tasty, pleasing, appetizing",0,0,-1,0,0
+Baby Showers,Baby showers may bring flowers ...,Awkward,"clumsy, bumbling, uncoordinated",0.3,1,-1,0,1
+Puff Daddy,"1971 , American rap artist. ""I'll be Missing You"" shot him to stardom; no pun intended.",Arrogant,"egotistical, overconfident, conceited",0.4,0,-1,0,0
+Inside The Sun,"Consisting mostly of hydrogen, the temperature reaches almost 16,000,000 K (about 29,000,000 F).",Delicious,"tasty, pleasing, appetizing",-0.4,1,1,0,0
+Diamonds,The hard fact: they are just highly refractive crystalline allotropes.,Patriotic,"nationalistic, loyal, public",0,1,1,1,0
+Silk,"Produced as a cocoon covering by the silk worm, and used in fine fabrics and textiles.",Sensual,"tactile, pleasing, sexual",0.7,0,1,0,0
+Saddam Hussein,"1937, dictator of Iraq 19792003.",Powerful,"strong, forceful, robust",0.4,0,-1,0,0
+Swiss Chocolate,"""What use are cartridges in battle? I always carry chocolate instead."" George Bernard Shaw",Lucky,"fortunate, serendipitous, favored",0,0,1,0,0
+The New York Yankees,"Legendary American baseball team. With so much success, it's obvious why they're reviled.",Hardworking,"industrious, diligent, busy",0.6,0,1,0,0
+Fourth Of July,"""Independence Day"" in the United States. ""Thank Goodness We Got Rid of Them Day"" in Britain.",Mischievous,"naughty, prankish, sly",0,0,-1,0,0
+Homework,"Finally, something to do during commercials.",Casual,"easygoing, blase, nonchalant",-0.3,1,-1,1,0
+Walt Disney,"1901-1966, the head of some Mickey Mouse company.",Animated,"lively, exuberant, spirited",0.8,0,1,0,1
+South Africa,"Two oceans, rugged mountains, traditional villages, game sanctuaries, wineries...forget the past and bring on the tourists.",Misunderstood,"not grasped, not learned, not absorbed",-0.3,0,-1,1,0
+Redwood Forests,"""From the Redwood Forests to the Gulf Stream Waters/ This land was made for you and me."" Woody Guthrie",Normal,"usual, common, ordinary",0,0,1,0,0
+A Flat Tire,"""Whaddya mean, there's no spare?""",Offensive,"insulting, vulgar, attacking",0.4,1,-1,0,0
+Piranha,Carnivorous fish found in rivers of South America. When you feel like a bite ...,Rich,"wealthy, affluent, moneyed",0,0,1,1,0
+Machine Guns,"Automatic, rapidfire, repeating weapons. The Gatling gun was used as early as the American Civil War.",Nasty,"mean, inclement, offensive",0.1,0,-1,0,0
+The 1950s,"Pros: Barbies, barbecues, and bikinis. Cons: McCarthy, the Korean War, television.",Offensive,"insulting, vulgar, attacking",0.4,0,-1,0,0
+King Tut,"Boy king who ruled Egypt from 1333 to 1323 B.C., known for the great wealth of objects found in his tomb. He took it with him.",Emotional,"passionate, moving, volatile",0,1,1,0,0
+A Dollar,Spend it wisely!,Silly,"foolish, goofy",0,0,1,0,0
+Singing,Making music with your voice. Lalala.,Feminine,"womanly, ladylike, unmanly",0.3,0,1,0,0
+Bigfoot,"Legendary North American monster, a.k.a. Sasquatch or the Abominable Snowman.",Perfect,"ideal, wonderful",0.1,1,1,0,0
+Having An Operation,What a cutup! A real stitch.,Torn & Tattered,"shabby, ragged, grungy",0.6,0,-1,0,1
+Stonehenge,"Prehistoric stone monument located north of Salisbury, England.",Chunky,"lumpy, chubby, bumpy",0.3,1,1,0,1
+Glass,Glass is made by melting sand with potash or other chemicals.,Irritating,"annoying, troublesome, provoking",0,0,-1,0,0
+A Bad Haircut,The perfect start to a bad hair day.,Gruesome,"ghastly, hideous, grisly",0.3,1,-1,0,0
+Elizabeth Taylor,"1932 , American actor, noted for her lush beauty, emotional performances and multiple husbands.",High & Low,"everywhere, universally, all over",0.1,0,1,0,0
+Antony & Cleopatra,"Roman general and Egyptian queen. A love affair that wouldn't die. Oh, wait, it did.",Dead & Gone,"deceased, defunct, passe",0.3,1,-1,0,1
+New Orleans,The Big Easy.,Shocking,"frightening, electrifying, startling",0.3,0,-1,0,0
+My Life,"""There are places I'll remember/ All my life/ though some have changed . . .""  The Beatles",Useful,"helpful, handy",0.5,0,1,0,0
+Hot Tubs,Of course it's hot it's a hot tub!,Polite,"respectful, well",0,1,1,0,0
+The Police,They keep order and arrest those who break the law.,Sporty,"athletic, active",0.2,0,1,0,0
+Cindy Crawford,"1966 , American Supermodel. What dreams are made of.",Organic,"natural, clean, biological",0,0,1,0,0
+Bald Eagles,They're not really bald. The white feathers on their heads make them look that way.,Friendly,"kind, nice",0.2,0,1,0,0
+Ireland,"Island of the British Isles, west of Great Britain. Known for its distinctive traditional dance and music.",Evil,"wicked, corrupt, depraved",-0.2,1,-1,1,0
+Body Snatchers,"We'd be worried, but nobody would want to snatch OUR bodies . . .",Dead & Gone,"deceased, defunct, passe",0.4,1,-1,0,1
+Burned Toast,Want some burned bacon with that?,Whimsical,"humourous, peculiar, fanciful",-0.3,1,1,1,0
+King Tut,"Boy king who ruled Egypt from 1333 to 1323 B.C., known for the great wealth of objects found in his tomb. He took it with him.",Pleasant,"enjoyable, nice",0,0,1,0,0
+Dumb Blonde Jokes,Are they just naturally funny?,Swift & Sure,"steady, prompt, definite",0,0,-1,0,0
+Restaurants,It's good to try new things!,Unnatural,"abnormal, artificial, bizarre",0,0,-1,0,0
+Road Trips,"""Get Your Kicks on Route 66."" Nelson Riddle",Revolutionary,"innovative, rebellious, radical",0.2,0,1,0,0
+Scientists,"Scientists study astronomy, biology, chemistry, geology, and other stuff.",Nice,"pleasant, kind",0.3,0,1,0,1
+Muhammad Ali,"1942 , American heavyweight boxing champion. ""Floats like a butterfly, stings like a bee.""",Thin,"skinny, narrow",-0.2,0,1,0,0
+Grease,Pretty slick!,Misunderstood,"not grasped, not learned, not absorbed",0,1,-1,0,1
+Mickey & Minnie,"Mouse, that is. Disney's dynamic duo.",Pathetic,"pitiful, distressing, heart",-0.3,1,-1,0,0
+Cleaning Your Room,"It's no fun, but you have to do it.",Touch & Go,"indecisive, uncertain, insecure",0,1,1,0,1
+Pins & Needles,It's all sewed up!,Nutty,"kooky, foolish, nutlike",0,0,-1,0,0
+Cindy Crawford,"1966 , American Supermodel. What dreams are made of.",Dead & Gone,"deceased, defunct, passe",0,0,-1,0,0
+Tractors,"""She thinks My Tractor's Sexy.""  Kenny Chesney",Mysterious,"strange, secretive",0,1,1,0,0
+Niagara Falls,"The 2nd largest waterfall in the world, located on the United States border with Canada.",Lively,"cheerful, active",0.4,0,1,0,0
+Red Raspberries,Worth a few scratches.,Glorious,"magnificent, delightful, splendid",0.2,0,1,0,0
+Trampolines,"Trampolines have been used in circuses wince the 18th century. Despite slumps in popularity, they always seem to bounce back!",Awkward,"clumsy, bumbling, uncoordinated",0,1,-1,1,1
+Rogers & Hammerstein,"Kings of the Broadway Musical: The Sound of Music, The King and I, South Pacific, and many, many more.",Miserable,"unhappy, sorrowful",0,0,-1,0,0
+A Giant,"A very large and powerful person. When Jack climbed the bean stalk, he met a hungry giant.",Stunning,"astonishing, staggering, astounding",0,1,1,0,1
+Mountain Bikes,What goes up the mountain must come down.,Popular,well,0.3,0,1,0,0
+Liver And Onions,An acquired taste.,Dead & Gone,"deceased, defunct, passe",0.3,0,-1,0,0
+Barbie & Ken,"Ah, to be blond and plastic...",Dysfunctional,"impaired, damaged, maladjusted",0.1,1,-1,1,1
+Frozen Peas,Right under the frozen pizza.,Quiet,"silent, noiseless",0,0,1,0,0
+Dancing,Moving your feet and body in time with music. Chachacha.,Dangerous,"unsafe, risky",0.2,1,1,0,1
+United Nations,"The U.N. was founded in 1945, after World War II ended. Its mission is to maintain world peace. If we ever achieve it, that is ...",Exhausting,"weakening, tiring, draining",0.2,0,-1,0,0
+Fort Knox,"American military post in Kentucky, containing the greater part of the gold reserve of the U.S. government.",Dignified,"stately, honorable, distinguished",0.3,0,1,0,0
+Ramona,"Main character in Beverly Cleary's ""Ramona the Pest"" and other books in the series.",Light & Fluffy,"billowy, airy, soft",0,0,1,0,0
+Mel Gibson,"1956, Australian actor. Known for The Road Warrior, Braveheart and :eatha; Weapon I, II, III, IV ...",Unhappy,"sad, sorrowful",0.3,0,-1,1,0
+Teachers,"""What do you mean, you didn't know there was a test today?""",Ideal,"perfect, flawless, model",0.5,0,1,0,1
+Pierced Ears,"Mom, when can I get my ears pierced?",Cool & Collected,"controlled, composed, restrained",0,0,1,0,0
+Bulls & Bears,On or off Wall Street.,Slender,"slim, small",0.2,1,1,1,1
+Working Out,"No pain, no gain.",Down & Out,"destitute, impoverished, penniless",0.2,0,-1,0,0
+Junk Mail,"Contests, credit card applications, solicitations and political ads.",Cruel,"mean, harsh, merciless",0.4,1,-1,0,0
+Bullwinkle,"As in the cartoon ""The Adventures of Rocky and Bullwinkle""  the moose half of moose and squirrel.",Principled,"conscientious, ethical, scrupulous",0,0,1,0,0
+Fly Fishing,"... if you can""t catch flies any OTHER way ...",Natural,"normal, pure",0.2,0,1,0,1
+At My Parent's House,"Like nevernever land, you're never seen as an adult here.",Important,"valuable, worthwhile",0.5,0,1,0,0
+Harrison Ford,"1942, Iconic American actor. ""Hokey religions and ancient weapons are no match for a blaster at your side, kid.""",Old,"not new, used",0.4,0,1,0,0
+On Line Shopping ,Enter your credit card number now. This is a secure site ... Sure it is ...,Hazardous,"risky, dangerous, perilous",0.4,1,-1,0,0
+Mail Carrier,"A person who brings the mail to your house, no matter what the weather.",Sexy,"arousing, appealing, seductive",0.1,1,1,1,0
+Stretch Limos,"Stretch your legs, stretch your wallet.",Fascinating,"interesting, attractive",0.3,0,1,0,0
+Liposuction,Fatty tissue? That sucks . . .,Fine,"worthy, delicate, all right",-0.1,0,-1,0,0
+Discovering America,"1492, Christopher Columbus discovered that America was discovered centuries before he arrived.",Good,"not bad, fine",0.2,0,1,0,0
+Turkey & Stuffing,Get stuffed.,Shaggy,"bushy, stringy",0,0,-1,0,0
+The Scarlet Letter,"Hawthorne's 1845 novel about Puritan New England, moral conflicts, guilt, and downright nastiness. (It was an ""A"".)",Selfish,"stingy, greedy, miserly",0.3,0,-1,0,0
+Morticians,Why do you hang around with THOSE stiffs ...?,Warm,"heated, somewhat hot",0.2,1,1,0,1
+At My Parent's House,"Like nevernever land, you're never seen as an adult here.",Orderly,"methodical, formal, systematic",0,0,1,0,0
+Family Vacations,Dad? Dad? Are we there yet? Are we there yet? Are we? Huh? Dad?,Violent,"furious, vicious, destructive",0,1,-1,1,0
+Harrison Ford,"1942, Iconic American actor. ""Hokey religions and ancient weapons are no match for a blaster at your side, kid.""",Smooth,"not bumpy, flat",0.4,0,1,0,0
+The Godfather,The 1972 critically acclaimed Mafia movie that made us as offer we couldn't refuse.,Large,"big, not small",0,0,1,0,0
+Noisy Neighbors,WHAT? I CAN'T HEAR YOU!,Curved,"bent, rounded",0,0,-1,0,0
+Assembly Lines,Faster. FASTER!,Fake,"unreal, counterfeit, deceptive",0,0,-1,0,0
+A Dozen Red Roses,When eleven just won't do.,Healthy,"not sick, well",0,0,1,0,0
+Boyfriends,We're just friends!,Organic,"natural, clean, biological",0,1,1,0,1
+Cindy Crawford,"1966 , American Supermodel. What dreams are made of.",Pure,"innocent, unadulterated, chaste",0.2,0,1,0,1
+Irrational Fears,What's that sound?,Fabulous,"marvelous, wonderful, incredible",-0.3,0,1,1,0
+Food & Shelter,Gotta have it.,Wild & Wooly,"untamed, uncontrolled, reckless",0,1,1,0,1
+Lady & The Tramp,"The 1955 Disney animated film featuring dogs, love and spaghetti.",Expensive,"costly, high priced",0.2,0,1,0,1
+Looking For A Job,Will work for fool ...,Useless,"worthless, not valuable",-0.3,0,-1,0,1
+Miles Davis,"1926-91, innovative, influential, and respected American jazz trumpter player and band layer.",Ideal,"perfect, flawless, model",0,0,1,0,0
+Cleaning The Bathroom,It's YOUR turn!,Relaxing,"restful, calming, peaceful",-0.4,1,1,1,0
+The Everglades,A vast marsh covering much of southern Florida. Watch out for alligators!,Quiet,"silent, noiseless",0.3,0,1,0,0
+Salt,"In ancient times salt was valuable. In fact, it was used as money.",Skinny,"thin, lean",0,0,1,0,0
+Plane Crashes,Statistically safer than driving ... unless you crash.,New & Improved,"upgraded, enhanced, revised",-0.4,1,-1,1,1
+Cher,"1946 , American singer and actor, she makes aging look good.",Refined,well read,0.4,0,1,0,0
+Reading & Writing,"Oldfashioned skill, amazingly still useful today.",Wonderful,"great, excellent",0.4,0,1,0,0
+Reading A Book,A good book is like traveling to a new world.,Influential,"powerful, prominent, important",0.3,0,1,0,0
+Rugrats,"A cartoon about the adventures of Tommy, Chucky, Angelica, and Phil and Lil.",Cruel & Unusual,"barbaric, merciless, unwarranted",-0.3,1,-1,1,0
+Gilligan's Island,Who would have thought that you could make a radio out of coconuts.,Charming,"pleasant, polite",0.2,0,1,0,0
+Glue,Very sticky stuff!,Industrious,"diligent, busy, hard working",0.4,0,1,0,1
+Saddam Hussein,"1937, dictator of Iraq 19792003.",Organic,"natural, clean, biological",0,0,-1,0,0
+Ben Stiller,"1965, American actor, director, and funny guy of Reality Bites, There's Something About Mary, and Meet The Parents",Delicate,"breakable, dainty",0,0,1,0,0
+New Yorkers,"Brash, brawny and full of bravado.",Light,"not dark, not heavy",0,0,1,0,0
+Morticians,Why do you hang around with THOSE stiffs ...?,Filthy,"dirty, foul, unclean",0.2,0,-1,0,1
+Jennifer Lopez,"1970, American singer and actor of Selena, Money Train, and Maid In Manhattan.",Secretive,"concealed, covert, veiled",0,0,-1,0,0
+An Igloo,A domedshaped house made from blocks of hard snow or ice.,Sappy,"gooey, mushy, romantic",0,0,1,0,0
+Mosquitoes,They suck.,Hopeless,"pessimistic, desperate, downhearted",0,0,-1,0,0
+Gas Stations,How far to the next gas station?,Flirtatious,"brazen, saucy, forward",-0.2,1,1,1,0
+Harry Potter,The hero in a series of books by J.K. Rowling featuring wizards and muggles.,Neat & Clean,"spotless, tidy, shipshape",0.2,0,1,0,0
+Having A Party,"Invitations, snacks, games, music... it's a party!",Sophisticated,"urbane, cosmopolitan, complex",0.3,0,1,0,0
+Rock Stars,Even the guys wear makeup!,Humorous,"funny, amusing, comical",0.2,0,1,0,0
+Cigarette Burns,Another reason to give up smoking.,Spicy,"flavorable, tangy, hot",0,1,-1,0,1
+Convenience Stores,"""Thank you come again.""",Fabulous,"marvelous, wonderful, incredible",-0.3,0,1,0,0
+Lollipops,Sucker!,Lively,"cheerful, active",0.2,1,1,0,0
+Log Cabins,"Among the many Americans born in log cabins were Preisdents Harrison, Lincoln, and Grant. Just pass the maple syrup.",Revolutionary,"innovative, rebellious, radical",0,0,1,0,1
+Wood Chippers,"""I guess that was your accomplice in the wood chipper."" Marge Gunderson, Fargo",Naive,"unsophisticated, childlike, simple",0,1,1,0,0
+A Desert,"Hot, dry and sandy.",Awesome,"amazing, remarkable, majestic",0.4,0,1,0,1
+Surf & Turf,Steak and lobster. No need to choose.,Worldly,"experienced, sophisticated, materialistic",0.3,1,1,0,1
+Minneapolis & St. Paul,"The ""Twin Cities"" are Minnesota's largest population center. They may be twins but you can tell the difference.",Bogus,"fraudulent, phony, insincere",0,0,-1,0,0
+Clark Gable,"190160, American film actor, noted as a romantic lead. Frankly, my dear, he didn't give a damn.",Fat,"plump, thick",0,0,-1,0,0
+Birthday Cake,"What kind of cake, white or chocolate?",Wired,"strained, tense, nervous",0.2,0,1,0,0
+Restaurants,It's good to try new things!,Entertaining,"interesting, fun",0.3,0,1,0,0
+Skin & Bones,What would you be without them?,Amazing,"surprising, wonderful",0.1,0,1,0,0
+The National Enquirer,American tabloid newspaper. Inquiring minds want to know ... Why the heck does this thing sell?,Special,"individual, unique",0.2,0,1,0,0
+Watching Cartoons,Not just for kids.,Sensational,"thrilling, startling, melodramatic",0.1,1,1,0,0
+San Francisco,California's City by the Bay. Where many hearts are left.,Revolutionary,"innovative, rebellious, radical",0.2,0,1,0,0
+Pine Trees,Trees that stay green all year and have pinecones and needles. They smell great!,Elitist,"snobbish, arrogant, smug",0,1,-1,1,0
+Batman,A superhero who wears a black mask and cape. He drives the Batmobile.,Inspirational,"exhilarating, inspiring, stimulating",0.3,0,1,0,0
+Challenger Explosion,"""Without a wish, without a will/ I stood upon that silent hill/ and stared into the sky ...""  Ralph Hodgeson",Old,"not new, used",0,0,-1,0,0
+Liposuction,Fatty tissue? That sucks . . .,Hale & Hearty,"healthy, vigorous, robust",-0.3,0,1,1,0
+Rush Limbaugh,"1951 , conservative talkradio personality. Claims to host his radio show with half his brain tied behind his back, just to make it fair.",Old & Cranky,"crabby, cantankerous, aged",0.2,1,-1,0,0
+Eleanor Roosevelt,"1884-1962, first lady, social activist, author, lecturer, and U.S. representative to the United Nations.",Flaky,"foolish, eccentric, crispy",0,0,-1,1,1
+Woodpeckers,They find insects to eat by pecking holes in wood with their beaks.,Sappy,"gooey, mushy, romantic",0.3,1,1,0,1
+Backstreet Boys,The latest American pop boy band. Which one do you think is the cutest?,Irresistible,"overpowering, overwhelming, compelling",0.6,0,1,0,0
+Camping,Shhh! Did you hear that noise?,Pleasant,"enjoyable, nice",0.5,0,1,0,0
+Velcro,A hookandloop fastener that can really grab you.,Bashful,"shy, timid, modest",0,0,1,1,0
+Harry Potter,The hero in a series of books by J.K. Rowling featuring wizards and muggles.,Useful,"helpful, handy",0,0,1,0,0
+Backstreet Boys,The latest American pop boy band. Which one do you think is the cutest?,Intelligent,"bright, smart, brainy",0,0,1,0,0
+Miles Davis,"1926-91, innovative, influential, and respected American jazz trumpter player and band layer.",Boring,"not interesting, dull",-0.4,0,-1,1,1
+Aliens,They're not from around here!,Long & Lean,"slender, lanky, wiry",0.3,0,1,0,0
+Rednecks,"""You might be a redneck if ..."" Jeff Foxworthy",Profound,"deep, wise, thoughtful",-0.2,0,1,1,0
+Teletubbies,Colorful characters with televisions in their stomachs. Tinky Winky is purple.,Enormous,"huge, gigantic",0.1,1,1,0,0
+Slobodan Milosevic,"1941, former leader of Serbia, also known as ""the Butcher of the Balkans.""",Scary,"frightening, spooky",0,0,-1,0,0
+Ancient Rome,"In ancient times, all roads led to Rome, and the traffic has only gotten worse.",Crooked,"bent, not straight",0.3,0,-1,0,1
+Flash Floods,Too late for sandbags!,Delicious,"tasty, pleasing",-0.2,0,-1,1,0
+Dirt,Good in the garden.,Healthy,"not sick, well",-0.2,1,1,1,0
+Gold Chains,"The more, the better.",Nerdy,"unhip, uncool, dorky",0,1,-1,1,0
+Pokemon,"A video game, card game and television show. I like Pikachu.",Helpful,"useful, assisting",0,0,1,0,0
+My Room,Where I sleep and keep all my things. KEEP OUT!,Rough & Ready,"crude, makeshift, prepared",0.2,1,1,0,1
+Beach Balls,Blow them up and watch them blow away!,Useless,"worthless, not valuable",0,0,-1,0,0
+Lemons,Sour yellow fruit. Add sugar and water and you can make lemonade!,Good,"not bad, fine",-0.4,1,1,1,1
+Velcro,A hookandloop fastener that can really grab you.,Principled,"conscientious, ethical, scrupulous",0,0,1,0,0
+Umbrella Drinks,"Extra fruit, please!",Smart,"intelligent, clever",0,0,1,0,0
+Red Roses,Red roses are a symbol of love.,Armed & Dangerous,"hazardous, threatening, fortified",0,0,-1,0,0
+San Francisco,California's City by the Bay. Where many hearts are left.,Long,"not short, stretched",0,0,1,0,0
+Cat & Mouse,It's just a game.,Plain & Simple,"unadorned, uncomplicated, clear",0,0,1,0,0
+The Milky Way,"The galaxy that includes the sun, its solar system, and a chewy layer of caramel.",On The Up & Up,"trustworthy, irreproachable, honest",0,1,1,0,0
+South Africa,"Two oceans, rugged mountains, traditional villages, game sanctuaries, wineries...forget the past and bring on the tourists.",Glorious,"magnificent, delightful, splendid",0,0,1,0,0
+Telling Scary Stories,"""It was a dark and stormy night . . .""",Big,"large, huge",0,0,-1,0,0
+Harry Potter,The hero in a series of books by J.K. Rowling featuring wizards and muggles.,Bad,"rotten, hurtful",-0.3,0,-1,0,0
+Baked Potatoes,"Hot potato, couch potato, potato head, twice baked, halfbaked, ... whatever.",Obscene,"offensive, indecent, lewd",0,1,-1,1,0
+Raves,Neopsychadelic allnight dance parties centered around acid house and techno music. All the rave.,Delightful,"pleasing, enjoyable, charming",0.1,0,1,0,0
+Bert And Ernie,Two nice guys in striped shirts who live on Sesame Street.,Ancient,"elderly, old, antique",0,0,1,0,0
+MaryKate And Ashley,The Olsen twins have been TV stars since the 1980s. They also have books and videos.,Useless,"worthless, not valuable",-0.2,0,-1,0,0
+Leeches,"Any mention of lawyers, agents, or reporters would be FAR too easy ...",Snappy,"stylish, trendy, fast",0.3,1,-1,0,1
+Outer Space,"Where the sun, moon, and planets are located. Maybe you'll visit there some day.",Mesmerizing,"fascinating, hypnotizing, charming",0.6,0,1,0,0
+Ice,Good for drinks in the summer and skating in the winter.,Pale,"faded, colorless",0.3,0,-1,0,0
+Ears,What?,Long,"not short, stretched",0,0,1,0,0
+Tacos,"Meat, cheese, and hot sauce all wrapped up in a tortilla.",Timeless,"classic, ageless, well established",0.2,1,1,0,1
+Darth Vader,"""Luke ... (wheeze) .. I am ... (wheeze) ... your father ... and you don't write, you don't call ... NOTHING.""",Tempting,"seductive, enticing, alluring",0.1,0,-1,0,0
+The Grand Canyon,"217 miles long, 4 to 18 miles wide, and more than 1 mile deeps. Now THAT'S grand.",Fabulous,"marvelous, wonderful, incredible",0.3,0,1,0,0
+Winning The Lottery,"The more you play, the more THEY win.",Delicate,"breakable, dainty",0,0,1,0,0
+The President,A U.S. president must be at least 35 years old and a natural born citizen.,Warm,"heated, somewhat hot",0,0,1,0,0
+Fast Food,You want fries with that?,Cosmopolitan,"sophisticated, urbane, well",0,1,1,1,1
+Beef Stew,"Meat, potatoes, carrots, onions...",Lovable,"adorable, enchanting",0,0,1,0,0
+Time Travel,"""What do you mean I missed my connection in the 14th Century?""",Overwhelming,"exhaustive, breathtaking, monumental",0.1,0,1,0,0
+Mice,"""The bestlaid schemes o' mice an' men ..."" Robert Burns",Lumpy,"bumpy, clumpy",0,1,1,0,0
+Body Odor,Over $1.6 billion is spent each year on antiperspirants in the United States. That stinks!,Smooth & Creamy,"silky, velvety, rich",0,1,-1,1,0
+Hamsters,These little rodents store food in their cheeks.,Unhappy,"sad, sorrowful",0,0,-1,1,0
+In The Doghouse,"All told, I'd rather be in the cathouse.",Fat & Happy,"content, satisfied, assured",-0.2,0,-1,1,1
+Throwing Up,It's proof that you really are sick.,Pretty,good,-0.3,0,-1,1,0
+A Cheap Motel,No charge for the cockroaches.,European,"of Europe, from Europe, about Europe",0,0,-1,1,0
+Queen Elizabeth II,"1926, Queen of the United Kingdom and Northern Ireland since 1952. Shame about the kids, though . . .",Weak,"not strong, sickly",-0.1,0,-1,1,0
+NASA,"National Aeronautics and Space Administration, established in 1958 in part in response to the U.S.S.R. launching Sputnik.",Orderly,"methodical, formal, systematic",0.4,0,1,0,0
+The Supreme Court,"The highest court in the United States. Robes, but no wigs.",Yucky,"icky, sickening",-0.2,1,-1,1,0
+Juggling,Start with two and see how you do.,Icky,"sickening, disgusting, repulsive",-0.1,1,-1,1,0
+Forever & Ever,"""Oh baby, I'm gonna love you forever / Forever and ever amen.""  Randy Travis",Flat,"smooth, level",0,0,-1,0,0
+Donuts,"In 1993, a doughnut weighing over 3,700 pounds was made in Utica, N.Y.",Graceful,"elegant, flowing",0,1,1,1,0
+Gold,Rare yellow metal used to make coins and jewelry.,Lazy,"slow, careless",-0.3,0,-1,1,0
+Redwood Forests,"""From the Redwood Forests to the Gulf Stream Waters/ This land was made for you and me."" Woody Guthrie",Emotional,"passionate, moving, volatile",0.1,0,1,0,0
+Truth & Justice,Sounds good on paper.,Magical,"mysterious, delightful",-0.2,1,1,1,0
+Cherries,And a cherry on top!,Scenic,"picturesque, dramatic, panoramic",0.2,0,1,0,0
+Sandra Bullock,"1964, American actor who starred in Speed, Miss Congeniality, and While You Were Sleeping. The classic girlnextdoor.",Shy,"bashful, timid",-0.2,0,1,1,0
+Cup & Saucer,Tea Time!,Careful,"cautious, thoughtful",0,0,1,0,0
+Normal Rockwell,"1894-1978, American painter, illustrator and allaround interpreter of small town American life.",Gloomy,"dreary, depressing, sullen",0,0,-1,0,0
+Elevators,The 110-story Sears Tower in Chicago has 104 elevators.,Old & Wise,"experienced, judicious, shrewd",0,0,1,0,0
+Morticians,Why do you hang around with THOSE stiffs ...?,Overwhelming,"exhaustive, breathtaking, monumental",0,1,-1,0,1
+Cow Pies,"When dried, these ""cow chips"" are hurled discuslike over great distances. It's true.",Stupid,"ignorant, unintelligent, inane",0,0,-1,0,0
+Dallas & Fort Worth,The heart & soul of Texas.,Crisp,"brittle, brisk, fresh",0,0,-1,0,0
+Aristotle,"384322 B.C., ancient Greek philosopher. His writings formed the foundation for much of today's philosophical and political thought.",Wash & Wear,"durable, easy",0.1,1,1,1,1
+A King,King Arthur became famous when he pulled a magical sword from a stone.,Ridiculous,"preposterous, absurd, ludicrous",0.2,0,-1,0,0
+Trekkies,"Beam them up, PLEASE!",Fat & Happy,"content, satisfied, assured",0.2,1,1,0,0
+Mosquitoes,They suck.,Spiritual,"religious, inspired, supernatural",0,1,-1,1,0
+Chimpanzees,"Sure, they're related to us; but they don't write, and they NEVER call!",Swift,"quick, speedy, expeditious",0.3,0,1,0,0
+Sledding,It would be more fun if you didn't have to climb back up the hill.,Old & Wise,"experienced, judicious, shrewd",0,0,1,0,0
+Board Games,Games have been played for thousands of years. Some games of Monopoly just SEEM that long.,Mysterious,"strange, secretive",0,0,1,0,0
+Trees,Some redwood trees in California are over 300 feet tall and thousands of years old.,Talented,"skillful, gifted",0,1,1,1,0
+North & South Dakota,It's all north.,Dramatic,"exciting, sensational, theatrical",0.2,1,-1,0,0
+Looney Tunes,Warner Brothers cartoons featuring Porky Pig and Bugs Bunny.,Glorious,"magnificent, delightful, splendid",0,1,1,0,0
+A Microwave Oven,You'll have popcorn in two minutes.,Fat & Happy,"content, satisfied, assured",0.2,1,1,0,1
+Legs,"People have them, animals have them, even tables have them.",Fine,"worthy, delicate, all right",0.2,1,1,0,0
+Hospital Gowns,Open all hours.,Cold,"cool, chilly",0.2,0,-1,0,0
+George Washington,First president of the United States.,Pale,"faded, colorless",0,0,1,0,0
+Vanilla Pudding,"Now available frozen, on a stick.",Touchy Feely,"affectionate, tactile, huggy",0,1,1,1,1
+Yo-Yos,There are lots of tricks that you can do with a yo-yo.,Overwhelming,"exhaustive, breathtaking, monumental",0,1,1,1,0
+Big Bang Theory,A cosmological theory for the origin of the universe. An explosive idea!,Eternal,"timeless, immortal, perpetual",0,0,1,0,0
+Collection Shells,She sells seashells by the seashore.,Clear,"understandable, uncluttered, transparent",0,0,1,0,0
+Hamsters,These little rodents store food in their cheeks.,Up & Coming,"promising, enterprising, gifted",0,1,1,1,0
+Abbot & Costello,"Comedy team who had everyone guessing  ""Who's on first?""",Hot & Muggy,"sultry, humid, oppressive",0,0,-1,0,0
+Surfing The Net,www.otbgames.com,Meek,"shy, mild, timid",0,1,-1,1,0
+Mashed Potatoes,Pile them up like a volcano and put butter in the middle.,Innocent,"guiltless, pure, naive",0,0,1,0,0
+Judge Judy,"Ms. Sheindlin presides over reallife cases on this TV courtroom show. ""I'm the boss, applesauce!""",Plug & Play,"effortless, automatic, self",0,0,1,0,0
+Nobel Peace Prize,Established by Alfred Nobel. Swedish industrialist and inventor of dynamite. Led to an explosion of peace efforts.,Shocking,"frightening, electrifying, startling",0.2,0,1,1,0
+A Fairy,"A tiny creature who has magical powers and can fly, like Tinkerbell.",Grungy,"dirty, shabby, seedy",-0.4,1,-1,1,0
+Freedom,Express yourself!,Nasty,"mean, wicked",-0.2,0,-1,1,0
+Large Mouth Bass,"Oh, please, let it not sing ...",Lucky,"fortunate, favored",0,1,1,1,0
+Ear Wax,"A waxy, yellowish substance that protects the ear from dust, bacteria, and from hearing things you don't want to hear.",Soft,"not hard, tender",0.5,0,1,0,0
+My Best Friend,"A person you can trust, no matter what.",Exhausting,"weakening, tiring, draining",-0.3,0,-1,1,0
+The Police,They keep order and arrest those who break the law.,Timeless,"classic, ageless, well established",0.2,0,1,0,1
+Sunshine,Warms the Earth and helps plants to grow.,European,"of Europe, from Europe, about Europe",0,0,1,0,0
+Johnny Depp,"1963, American actor and heartthrob. From CryBaby to The Man Who Cried",Clean,"spotless, clear",0,0,1,0,0
+School Lunch,"Hot lunch, cold lunch, or bring your own lunch.",Phony,"false, artificial, imitation",0,0,-1,0,0
+Snoopy,"The little, white beagle from the ""Peanuts"" cartoon.",Fascinating,"interesting, attractive",0.2,0,1,0,1
+Flowers & Candy,"When ""I'm sorry"" is not enough.",Rich,"wealthy, not poor",0,0,1,0,0
+Screeching,Please stop.,Crisp,"brittle, brisk, fresh",0,0,-1,0,0
+Phone & Fax,Soon you won't need to leave the house at all!,Sporty,"athletic, active",0,0,1,0,0
+Regis Philbin,"1934 , American talk and game show host. Who wants to be a millionaire? Regis, apparently.",Dead,"deceased, expired, unresponsive",0.2,0,-1,0,0
+A Spare Tire,The good news is: we have a spare tire . . .,Old & Cranky,"crabby, cantankerous, aged",0,1,-1,1,0
+The Library,"Books, magazines, newspapers, tapes, and computers. SHHHH!",Healthy,"not sick, well",0,0,1,0,0
+Dirty Dishes,That's why they make paper plates!,Bumpy,"lumpy, bouncy",0,0,-1,0,0
+Dirty Diapers,It must be time to change the baby!,Short & Stout,"plump, portly, tubby",0,1,-1,0,0
+Jack The Ripper,"Accused of murdering six women in 1888, and suspected in other murders. Still at large.",Worldly,"experienced, sophisticated, materialistic",0,0,-1,0,0
+Pokemon,"A video game, card game and television show. I like Pikachu.",Chunky,"lumpy, chubby, bumpy",0,0,-1,0,0
+Tomato Soup,Good with cheese sandwiches.,Neat,"clean, orderly",0,1,1,1,0
+Cary Grant,"1904-86, Britishborn American actor known for his debonair manner. He can be found North by Northwest.",Wash & Wear,"durable, easy",0,0,1,0,0
+Jimmy Stewart,"190897, America's favorite selfimage. Mr. Smith Goes to Washington, Rear Window, Vertigo, and It's a Wonderful Life, ... and it probably was.",Delightful,"pleasing, enjoyable, charming",0.2,1,1,0,0
+Grapes,"Small round fruit that grows in bunches, usually purple, red or green. They make good snacks!",Extreme,"exceptional, superlative, radical",0,1,1,1,0
+A Crown,A crown is a symbol of royalty.,Refreshing,"brisk, invigorating, rejuvenating",0,0,1,0,0
+Crystal Balls,I see a Green Apple card in your future.,Lewd & Lascivious,"lustful, obscene, indecent",0.1,1,-1,0,1
+Telling Scary Stories,"""It was a dark and stormy night . . .""",Phony,"false, artificial, imitation",0.2,0,-1,0,0
+Mustard,Made from seeds of the mustard plant. Spread on pretzels and hotdogs.,Pathetic,"pitiful, distressing, heart",0,1,-1,1,0
+Hiding Places,It's a secret.,Loud,"noisy, not quiet",-0.4,0,-1,1,0
+Girls,"""Sugar and spice and everything nice.""",Healthy,"not sick, well",0,0,1,0,0
+Telling Scary Stories,"""It was a dark and stormy night . . .""",Large,"big, not small",0,0,1,0,0
+Cattle Ranch,Home on the range.,Vain,"conceited, arrogant, fruitless",0,0,-1,0,0
+Baby Showers,Baby showers may bring flowers ...,Refreshing,"brisk, invigorating, rejuvenating",0.2,1,1,0,1
+Rock & Roll,It'll never die. Unlike Rock and Roll musicians.,Polite,"respectful, well",-0.3,0,1,1,0
+Forever & Ever,"""Oh baby, I'm gonna love you forever / Forever and ever amen.""  Randy Travis",Icky,"sickening, disgusting, repulsive",0,0,-1,0,0
+Power Drills,"Carpenters use them, and so do dentists.",Nutty,"kooky, foolish, nutlike",0,1,1,0,0
+Maple Syrup,"Made from the sweet sap of the maple tree or black maple tree, produced only in North America  a ""must have"" for pancakes.",Elderly,"old, aged",0,1,1,0,0
+Sparklers,They're still fireworks!,Absurd,"ridiculous, senseless, foolish",0,0,1,0,0
+Country Music,"Encompassing styles such as western swing, honkytonk, bluegrass and rockabilly. Should mention a pickup truck and a dog named ""Bo.""",Boring,"not interesting, dull",0,0,-1,0,0
+Hammerhead Sharks,The name for these sharks comes from the unusual shape of their heads.,Crazed,"insane, wild, deranged",0.3,0,-1,0,0
+Swans,"The ""Ugly Duckling"" was actually a baby swan.",Tempting,"seductive, enticing, alluring",0,1,1,1,0
+Forever & Ever,"""Oh baby, I'm gonna love you forever / Forever and ever amen.""  Randy Travis",Dull,"not sharp, plain",0,0,-1,0,0
+Jerry Springer,"1944 , controversial talkshow host. Don't those people know that millions of us are watching?",Black & White,"indisputable, distinct, written",0,0,-1,0,0
+Loan Sharks,"As dangerous as ""Jaws"", but without the charisma.",Enormous,"huge, gigantic",0,0,-1,0,1
+Casablanca,"The largest city in Morocco, and one heck of a good movie. ""Of all the gin joints in all the towns in all the world...""",Snappy,"stylish, trendy, fast",0.3,0,1,0,0
+Violins,"It's a pain in the neck, but keep practicing.",Chunky,"lumpy, chubby, bumpy",-0.2,0,1,1,0
+James Dean,"1931-55, American actor of film, stage, and television. His role in Rebel Without a Cause helped define ""cool.""",Pale,"faded, colorless",0,0,1,0,0
+Hammerhead Sharks,The name for these sharks comes from the unusual shape of their heads.,Vain,"conceited, arrogant, fruitless",0,0,-1,0,0
+Black Lingerie,Victoria's REAL secret: selling skimpy negligees at hefty price . . .,Light & Fluffy,"billowy, airy, soft",0.2,0,1,0,0
+Curds & Whey,What? It's just cottage cheese?,Obnoxious,"offensive, repulsive, annoying",0,0,-1,1,0
+Whales,Very large animals that live in oceans. They squirt water from a blowhole.,Timeless,"classic, ageless, well established",0.3,0,1,0,0
+Dolphins,"Dolphins are mammals that live in the sea, and Sea World.",Juicy,"wet, squishy",0,1,1,0,0
+Blizzard,"Extreme cold, strong winds, and a head snowfall. Also known as Canada.",Perfect,"ideal, wonderful",0,0,-1,0,0
+Cheese Sandwich,"Two pieces of bread and a slice of cheese. Grill it, if you want.",Boisterous,"loud, rambunctious, rowdy",0,1,1,1,0
+Lego Building Blocks,Get more blocks! We're building the Golden Gate Bridge.,Torn & Tattered,"shabby, ragged, grungy",-0.1,0,-1,1,0
+Food & Shelter,Gotta have it.,Ugly,"not pretty, unpleasant",0,0,-1,0,0
+The Atlantic & Pacific,Oceans apart.,Scary,"frightening, spooky",0.2,0,-1,0,0
+Recess,My favorite subject in school!,Hot & Muggy,"sultry, humid, oppressive",0,0,-1,0,0
+Hamsters,These little rodents store food in their cheeks.,Dysfunctional,"impaired, damaged, maladjusted",0,1,-1,1,0
+The BabySitters Club,"This series of books, written by Ann M. Martin, is a favorite of girls, worldwide.",Perfect,"ideal, wonderful",0.2,0,1,0,0
+Leeches,"Any mention of lawyers, agents, or reporters would be FAR too easy ...",Favorite,"preferred, desired",-0.2,0,1,1,0
+A Microwave Oven,You'll have popcorn in two minutes.,Disgusting,"sickening, horrible",0.1,0,-1,0,0
+Andy Warhol,"1928-87, American painter and filmmaker, a leader of the pop art movement. Famous for slightly more than 15 minutes.",Evil,"wicked, corrupt, depraved",0,0,-1,0,0
+Catfish,Fish with feelers that look like whiskers.,Irritating,"annoying, troublesome, provoking",0.4,1,-1,0,1
+Sparklers,They're still fireworks!,Manly,"masculine, virile, strong",-0.2,1,1,1,0
+The Super Bowl,Who needs another national holiday?,Wired,"strained, tense, nervous",0,0,1,0,0
+Andy Warhol,"1928-87, American painter and filmmaker, a leader of the pop art movement. Famous for slightly more than 15 minutes.",Refined,well read,0.4,0,1,0,0
+Loan Sharks,"As dangerous as ""Jaws"", but without the charisma.",Adorable,"lovable, cute",-0.3,0,1,1,0
+Reggae Music,"This contemporary Caribbean music, originating in Jamaica, remains an influential style of popular music. Ya mon!",Loud & Clear,"definite, explicit, unequivocal",0.2,1,1,0,1
+Babe Ruth,"1895-1948, American baseball legend, and one heck of a candy bar!",Lumpy,"bumpy, clumpy",0.2,1,-1,0,0
+Dump Trucks,"Large trucks that carry dirt, sand, and rocks.",Wonderful,"great, excellent",0,1,1,0,1
+Mount Rushmore,Memorial carved into the side of the Black Hills in South Dakota. Heads above all other monuments.,Quick & Dirty,"cheap, shoddy, inferior",0,0,-1,1,0
+Water Guns,Don't take them to school!,Thoughtful,"caring, unselfish",0,0,1,0,0
+Ballroom Dancing,"Foxtrots, tangos, chachas, and more! Are you ready to rumba?",Selfish,"stingy, greedy, miserly",0,1,-1,1,0
+Fred & Ginger,Fred Astair & Ginger Rogers  tap dancing their way into the hearts of millions.,Hot & Bothered,"annoyed, irritated, provoked",0,1,1,0,0
+Woody Allen,"1935 , American comedian, actor and director, of Bananas, Annie Hall, Hannah and Her Sisters, and lots of New York Stories.",Hot & Bothered,"annoyed, irritated, provoked",0,1,-1,0,0
+A Pile Of Leaves,Rake them up and jump in!,Squeaky Clean,"pure, immaculate, unapproachable",0,0,1,0,0
+Plane Crashes,Statistically safer than driving ... unless you crash.,Wicked,"evil, corrupt, depraved",0.3,0,-1,0,1
+Parenting,The process of discovering you are becoming just like YOUR parents.,Unusual,"rare, odd, uncommon",0.3,0,-1,0,0
+The Old Man And The Sea,"Ernest Hemingway's classic novel  fishing, hunger, fishing, torment, fishing, personal loss ... fishing ...",Dumb,"silent, not smart",-0.4,0,-1,1,0
+Intellectuals,They think they're so smart.,Appetizing,"appealing, tasty, flavorful",0,1,1,0,0
+Telling The Truth,"""There are two kinds of truth. There are real truths and there are madeup truths."" Marion Barry, exmayor of Washington, D.C.",Rare,"scarce, unusual, half",0,1,1,1,0
+Hamsters,These little rodents store food in their cheeks.,Flamboyant,"ornate, pompous, extravagant",0,1,1,1,0
+Lawyers,"We'd throw some joke in here, but we're afraid of getting sued.",Whimsical,"humourous, peculiar, fanciful",-0.3,1,1,1,0
+Adam & Eve,A relationship of Biblical proportions.,Luxurious,"opulent, lavish, sumptuous",0,0,1,0,0
+Green Beans,"Long, thin beans that you can eat raw or cooked.",Bold,"daring, courageous",0,0,1,0,0
+HMOs,Heath Maintenance Organizations. Here's to your health ...,Smart,"intelligent, clever",0,0,1,0,0
+Turkeys,Large birds raised for food. Popular at Thanksgiving.,Noisy,"loud, not quiet",0.3,0,-1,0,0
+Cold Pizza,The breakfast of champions.,Glorious,"magnificent, delightful, splendid",0.2,1,1,0,0
+Billy Crystal,"1947, American comedian, actor and director. He looks maaaaahvelous.",Mysterious,"strange, secretive",0,0,1,0,0
+Spilled Milk,Got milk? WHOOPS! Apparently not ...,Complicated,"difficult, complex, involved",0,1,-1,1,0
+My Job,Love it or leave it.,High & Dry,"abandoned, alone, helpless",0,1,-1,1,0
+Haunted House,If there's a ghost it's haunted!,Glitzy,"flashy, showy, gaudy",-0.3,1,1,1,0
+Campfire,S'mores and songs. Gather 'round!,Horrifying,"offensive, abominable, disgusting",0,0,-1,0,0
+Goldie Hawn,"1945 , American actor and producer. Famous for playing ditzy blondes really well!",Icky,"sickening, disgusting, repulsive",0,0,-1,0,0
+Going To The Dentist,Have you brushed your teeth today?,Spotless,"clean, pure",0.4,0,1,0,0
+The Super Bowl,Who needs another national holiday?,Primitive,"prehistoric, primal, uncivilized",0.2,1,1,0,0
+Bill Gates,"1955, chairman and chief software architect of Microsoft Corporation. A very rich guy.",Ideal,"perfect, flawless, model",0,0,1,0,0
+The Indy 500,Contestants must drive the full 500 miles. Bathroom breaks ARE allowed.,Talented,"skillful, gifted",0.4,0,1,0,0
+Charles & Diana,A right royal marriage.,Insane,"psychotic, deranged, mad",0.4,1,-1,0,0
+Pole Vaulting,The sport where you can reach new heights.,Slender,"slim, small",0.2,0,1,0,0
+Swiss Chocolate,"""What use are cartridges in battle? I always carry chocolate instead."" George Bernard Shaw",Realistic,"authentic, lifelike, reasonable",0,0,1,0,0
+Buying A House,"If only we had the money, we could get a mortgage.",Furry,"hairy, fuzzy",0,0,1,0,0
+Rocky Mountains,"These extend 2,000 miles from northeastern British Columbia to central New Mexico, and keep the Californians away from everyone else ...",Plain,"simple, dull",-0.3,0,1,1,0
+The Williams Sisters,"Venus, 1980, and Serena, 1981, Williams, American tennis champs. One heck of a sister act.",Cuddly,"cozy, soft",0,0,1,0,0
+Pretzels,"Pretzels were first made in Germany. Available straight, twisted, or knotted.",Wired,"strained, tense, nervous",0,0,1,0,0
+Public Radio,"""Good morning . . . . . This morning . . . . . . . . . . . .we have Wolfgang . . . Amadeus Mozart . . . for your listening pleasure . . .""",Tempting,"seductive, enticing, alluring",0,1,1,0,0
+Lemonade,Needs more sugar!,Hot,"very warm, heated",-0.2,1,1,1,0
+My Job,Love it or leave it.,New & Improved,"upgraded, enhanced, revised",0.3,0,1,0,0
+My Stuffed Animals,"The dog's name is Lucky, the bear is Teddy, and the duck is Quacker.",Selfish,"stingy, greedy, miserly",0,1,-1,1,0
+Mount Vesuvius,"Italian volcano that rises above the Bay of Naples and blew its top in 79 A.D., much to Pompeii's regret.",Short,"not long, not tall",-0.3,0,-1,1,0
+Marlon Brando,"1924, legendary America actor who starred in A Streetcar Named Desire and won awards for On the Waterfront and The Godfather.",Playful,"fun, cheerful",0.3,0,1,0,0
+The South,Dixie: South of the MasonDixon line that is. They're not like folks 'round here ...,Untamed,"wild, natural",0.1,0,1,0,0
+Rabbits,"Small, furry animals with long ears and short, fluffy tails. They like carrots and other vegetables.",Dramatic,"exciting, sensational, theatrical",0,1,-1,1,0
+The Library,"Books, magazines, newspapers, tapes, and computers. SHHHH!",Worthless,"useless, meaningless",-0.4,0,-1,1,0
+Tulips,A sign of spring!,Quick & Dirty,"cheap, shoddy, inferior",0,1,-1,1,1
+Belt Buckles,Cowboys like them fancy and pilgrims like them plain.,Emotional,"passionate, moving, volatile",0,1,1,0,1
+Whales,Very large animals that live in oceans. They squirt water from a blowhole.,Big,"large, huge",0.7,0,1,0,0
+The Mafia,"A loose association of criminal groups, bound by a blood oath and sworn to secrecy. Of course, now we have to kill you.",Shallow,"superficial, trivial, not deep",0,0,-1,0,0
+Soldiers,Men and women who serve in the military.,Temperamental,"moody, irritable, short tempered",0.2,0,-1,0,0
+My Neighborhood,"""Please, won't you be my neighbor?"" Fred Rogers",Conceited,"vain, smug, self",0,0,-1,0,0
+Gold Chains,"The more, the better.",Helpful,"useful, assisting",0,0,1,0,0
+Fred & Ginger,Fred Astair & Ginger Rogers  tap dancing their way into the hearts of millions.,Hairy,"not bald, furry",0,0,-1,0,0
+The Great Depression,Prozac was invented six decades too late.,Flavorful,"tasty, appetizing",-0.2,0,-1,1,0
+Ben Stiller,"1965, American actor, director, and funny guy of Reality Bites, There's Something About Mary, and Meet The Parents",Modern,"contemporary, fashionable, trendy",0.2,0,1,0,0
+Bunk Beds,"Two single beds, one on top of the other. I want the top!",Favorite,"preferred, desired",0,0,1,0,0
+The Green Bay Packers,"Twelve time National Football League world champions, beloved by ""Cheeseheads"" everywhere. Are those brats done yet?",Hot & Heavy,"passionate, momentous, serious",0.2,1,1,0,1
+Gold,Rare yellow metal used to make coins and jewelry.,Up & Coming,"promising, enterprising, gifted",0,0,1,0,0
+Football,It's a ball AND a game.,Important,"valuable, worthwhile",0.1,0,1,0,0
+Robots,They should make a robot that does homework.,Scented,"perfumed, fragrant",-0.1,1,1,1,0
+Chopsticks,"A pair of small, slender sticks used for eating. Just try eating peas.",Little,"small, tiny",0,0,1,0,0
+Stanley & Livingston,"Britons who explored Africa, I presume.",Quick,"fast, speedy",0,0,1,0,0
+Smoke & Mirrors,That's how we do it!,Fascinating,"interesting, attractive",0.2,0,1,0,1
+"Paris, France","The governmental, cultural and gastronomic capital of France. Or the world. Just ask the French.",Kind,"nice, helpful",-0.2,0,1,1,0
+Weird Al Yankovic,"1959, American musical humorist, born Alfred Matthew Yankovic, which is nothing to laugh about . . .",Fat & Happy,"content, satisfied, assured",0.2,1,1,0,0
+Russia,"The world's largest country, spanning 11 time zones. Famous for borscht, ballet, chess and vodka just don't mix them.",Powerful,"strong, forceful",0.4,0,1,0,0
+Stunt People,When you need someone to take the fall.,Sultry,"sweltering, humid, sensual",0,1,1,0,0
+Good & Plenty,"The licorice candy was first produced in 1893, making it the oldest branded candy in the United States.",Tasty,"flavorful, yummy",0.2,0,1,0,0
+Duct Tape,"Allpurpose, ... all the time ...",Brains & Brawn,"solid, strong, capable",0.2,0,1,0,0
+Bruises,The dark color of a bruise is caused by broken blood vessels under the skin.,Intense,"extreme, passionate, strained",0.3,0,-1,0,0
+Bagpipes,A shrilltoned musical instrument consisting of a leather bag and pipes. Also available in plaid.,Confused,"muddled, bewildered, perplexed",0,1,1,1,0
+Body Piercing,YOU STUCK WHAT? WHERE?,Crisp & Delicious,"tasty, crunchy, savory",0,0,1,0,0
+Cowboys,Men who take care of cattle on a ranch.,Evil,"wicked, corrupt, depraved",0.2,0,-1,0,0
+Watermelon,How far can you spit the seeds?,Swift,"quick, speedy, expeditious",0,0,1,0,0
+Family Vacations,Dad? Dad? Are we there yet? Are we there yet? Are we? Huh? Dad?,Eternal,"timeless, immortal, perpetual",0,0,1,0,0
+Graffiti,"Art in a can. We""re drawn to it.",Ridiculous,"preposterous, absurd, ludicrous",0.2,1,1,0,0
+Chips & Dip,No double dipping!,Unhappy,"sad, sorrowful",-0.2,1,-1,1,0
+In The Basement,You never know what you will find down there.,Violent,"furious, vicious, destructive",0.1,0,-1,0,0
+Turkey & Stuffing,Get stuffed.,Naive,"unsophisticated, childlike, simple",0,0,1,0,0
+Atlantis,Mythological city where the folks had that sinking feeling.,Smelly,"stinky, bad odor",0,0,-1,0,0
+Horses,"Black Beauty, the Black Stallion, and Flicka are famous horses in literature.",Sick & Tired,"worn out, exhausted, exasperated",0.2,1,-1,0,1
+Claude Monet,"1840-1926, French painter, regarded as one of the leaders on the impressionist movement.",Bold,"daring, courageous",0.3,0,1,0,0
+My School,"""Be true to your school.""",Stinky,"smelly, bad odor",0.2,1,-1,0,0
+Florence Nightengale,"1820-1910, English nurse and healthcare reformer. We've been singing her praises for years.",Short & Sweet,"precise, clear",0.2,0,1,0,0
+Telemarketers,"""No, thank you ... No, I'm not interested ... No, I have to go now ...""",Mean,"unkind, nasty",0.4,0,-1,0,0
+Chickens,"Hens and roosters. Cluckcluck, cockadoodle",Cruel & Unusual,"barbaric, merciless, unwarranted",0,1,-1,1,1
+Chips & Salsa,Nacho average snack!,Skillful,"expert, talented",0,0,1,0,0
