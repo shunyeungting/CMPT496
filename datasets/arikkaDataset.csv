@@ -1,0 +1,16 @@
+Noun,Noun_Description,Adjective,Adjective_Synonyms,Rating,Is_Humorous,Sentiment,Is_Ironic,Is_Punny
+Ernest Hemingway,"1899-1961, American novelist and shortstory writer, whose macho style is crisp, laconic and understated.",Zany,"crazy, funny, wacky",0.0,0,1,0,0
+"Paris, France","The governmental, cultural and gastronomic capital of France. Or the world. Just ask the French.",Crazed,"insane, wild, deranged",0.0,1,0,0,0
+Fuzz,Lint ... Policemen ... Whatever ...,Awkward,"clumsy, bumbling, uncoordinated",1.0,1,0,0,0
+Apples,More than 40 million metric tons are produced worldwide every year. How 'bout them apples?,Nasty,"mean, inclement, offensive",-1.0,1,-1,0,0
+The Mississippi River,"The Algonquin words ""Misi sipi"" mean ""big river."" What's Algonquin for ""muddy""?",Brilliant,"dazzling, gleaming, intelligent",0.0,0,0,0,0
+Charging Rhinos,How do you stop a rhino from charging? Take away its credit cards.,Horrifying,"offensive, abominable, disgusting",1.0,0,-1,0,0
+Killer Whales,"Black and white predatory whales. Boy, can they sing!",Fragrant,"aromatic, odorous, perfumed",0.0,1,0,0,0
+Windsurfing,Really just surfing for lazy people.,Timeless,"classic, ageless, well",0.0,0,1,0,0
+Cher,"1946 , American singer and actor, she makes aging look good.",Smooth,"even, level, flat",0.0,0,1,0,0
+Stephen King,"1947 , American author of horror novels, who's sold more than 100 million copies of his books. Talk about frightening ...",Demanding,"difficult, exacting, bothersome",0.0,1,-1,0,0
+My Past,What's past is past ... unless you're a politician ...,Corrupt,"dishonest, underhanded, shady",0.4,1,-1,0,0
+Thomas Edison,"18471931, American inventor, developed a light bulb, generator, soundrecorder, and motion picture projector. Show off.",Trustworthy,"honest, reliable, unfailing",-1.0,0,1,1,0
+The French Riviera,"Holiday home of the rich, the famous, and the halfnaked.",Creative,"imaginative, artistic, original",0.0,0,0,0,0
+Celine Dion,"1968, Canadian singer whose heart will go on, and on ...",Corrupt,"dishonest, underhanded, shady",0.0,1,-1,1,0
+Eyes,Lightsensitive organ of vision in animals. See?,Loud,"noisy, boisterous, deafening",0.5,0,0,0,0
