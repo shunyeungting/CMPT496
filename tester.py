@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import filedialog, simpledialog, messagebox
 import csv
 import random
-from transformers import pipeline
+import torch
+from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 
 # Global variables
 card_files = {'RED': '', 'GREEN': ''}
@@ -43,14 +44,31 @@ def load_card_sets(filename, colour):
     return card_db
 
 def set_model_name(feature, button):
-    model_name = simpledialog.askstring("Model Name", f"Enter the model name for '{feature}':")
-    if model_name:
-        try:
-            pipes[feature] = pipeline("text-classification", model=model_name)
-            button.config(text=f"{feature} Model: {model_name}")
-            messagebox.showinfo("Model Loaded", f"Pipeline for '{feature}' loaded successfully!")
-        except Exception as e:
-            messagebox.showerror("Model Loading Error", str(e))
+    model_choice = simpledialog.askstring("Model Source", f"Enter 'pretrained' for a Hugging Face model or 'local' for a local .bin file for '{feature}':")
+    if model_choice == 'pretrained':
+        model_name = simpledialog.askstring("Model Name", f"Enter the Hugging Face model name for '{feature}':")
+        if model_name:
+            try:
+                pipes[feature] = pipeline("text-classification", model=model_name)
+                button.config(text=f"{feature} Model: {model_name} (Pretrained)")
+                messagebox.showinfo("Model Loaded", f"Pipeline for '{feature}' loaded successfully!")
+            except Exception as e:
+                messagebox.showerror("Model Loading Error", str(e))
+    elif model_choice == 'local':
+        model_path = filedialog.askopenfilename(title=f"Select the .bin file for '{feature}'")
+        if model_path:
+            try:
+                tokenizer = AutoTokenizer.from_pretrained("frostymelonade/roberta-small-pun-detector-v2")
+                model = AutoModelForSequenceClassification.from_pretrained("frostymelonade/roberta-small-pun-detector-v2")
+                model.load_state_dict(torch.load(model_path))
+                model.eval()
+                pipes[feature] = lambda text: [{'label': str(torch.argmax(torch.softmax(model(**tokenizer(text, return_tensors="pt")).logits, dim=-1), dim=-1).item())}]
+                button.config(text=f"{feature} Model: {model_path.split('/')[-1]} (Local)")
+                messagebox.showinfo("Model Loaded", f"Local model for '{feature}' loaded successfully!")
+            except Exception as e:
+                messagebox.showerror("Model Loading Error", str(e))
+    else:
+        messagebox.showerror("Input Error", "Please enter 'pretrained' or 'local'.")
 
 def set_output_csv_name(button):
     global output_csv_filename
