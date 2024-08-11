@@ -8,7 +8,7 @@ from preprocess import preprocess_data  # Import preprocess function
 import os
 import time
 from datasets import load_dataset
-
+from tqdm import tqdm 
 
 print("Current working directory:", os.getcwd())
 
@@ -25,7 +25,7 @@ def get_device():
         print("CUDA is available. Using GPU.")
         return torch.device('cuda')
     elif torch.backends.mps.is_available():
-        print("MPS is available. Using Apple M1 GPU.")
+        print("MPS is available. Using Apple Silicon GPU.")
         return torch.device('mps')
     else:
         print("Neither CUDA nor MPS is available. Using CPU.")
@@ -80,7 +80,8 @@ def train_model(dataset_name, model_name, resume_training=False, model_path=None
     for epoch in range(epochs):  
         model.train()
         total_loss = 0.0
-        for batch in train_dataloader:
+        progress_bar = tqdm(train_dataloader, desc=f"Epoch {epoch + 1}/{epochs}")  # adding progress bar
+        for batch in progress_bar:
             input_ids, attention_mask, labels = [x.to(device) for x in batch]
             outputs = model(input_ids=input_ids, attention_mask=attention_mask)
             loss = criterion(outputs.logits, labels)
@@ -89,7 +90,10 @@ def train_model(dataset_name, model_name, resume_training=False, model_path=None
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
-        
+            
+            # progress bar update
+            progress_bar.set_postfix(loss=loss.item())
+
         val_loss, val_accuracy = evaluate(model, test_dataloader, criterion, device)
         print(f"Epoch {epoch + 1}, Loss: {total_loss / len(train_dataloader)}, Validation Loss: {val_loss}, Validation Accuracy: {val_accuracy}")
     
@@ -115,15 +119,15 @@ def predict_with_saved_model(model_name, model_path, dataset_name):
 
     # load saved model
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
-    model.load_state_dict(torch.load(model_path, weights_only=True))  # 添加 weights_only=True
+    model.load_state_dict(torch.load(model_path, weights_only=True))  # adding weights_only=True
     model.to(device)
     model.eval()
 
     # load now dataset
     dataset = load_dataset(dataset_name, split='train')
 
-    # 进行预测
-    texts = [item['text'] for item in dataset]  # 假设数据集中有 'text' 字段
+    # predict
+    texts = [item['text'] for item in dataset]  # assume there is "text"
     inputs = tokenizer(texts, padding=True, truncation=True, return_tensors="pt").to(device)
 
     with torch.no_grad():
@@ -131,7 +135,7 @@ def predict_with_saved_model(model_name, model_path, dataset_name):
         logits = outputs.logits
         predictions = torch.argmax(logits, dim=-1)
 
-    # 输出预测结果
+    # result
     for text, pred in zip(texts[:5], predictions[:5]):
         print(f"Text: {text}\nPrediction: {'Offensive' if pred == 1 else 'Not Offensive'}\n")
 
@@ -139,7 +143,7 @@ if __name__ == "__main__":
     dataset_name = 'frostymelonade/SemEval2017-task7-pun-detection'
     model_name = 'frostymelonade/roberta-small-pun-detector-v2'
     
-    # 询问用户是否已有模型
+    # ask if user want to resume or start over
     resume_training = input("Do you have a pre-trained model to resume training? (Y/N): ").strip().upper()
     model_path = None
     if resume_training == 'Y':
@@ -148,10 +152,9 @@ if __name__ == "__main__":
             print("Model path does not exist. Exiting.")
             exit()
 
-        # 加载并预测新的数据集
+        # load saved model and predict
         predict_with_saved_model(model_name, model_path, 'metaeval/offensive-humor')
     else:
-        # 正常的训练流程
         train_model(dataset_name, model_name, resume_training == 'Y', model_path)
 
 

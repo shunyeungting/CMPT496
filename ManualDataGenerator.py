@@ -10,7 +10,7 @@ output_csv_filename = ""
 current_sample = 0
 num_samples = 0
 writer = None
-csvfile = None  # New global variable to keep the file open
+csvfile = None
 
 # Read red and green card words
 def get_card_sets(filename, color):
@@ -41,17 +41,51 @@ def load_file(color):
             label_green_file.config(text=f"Green card file: {filename.split('/')[-1]} loaded")
         messagebox.showinfo("File Loaded", f"{color} card file loaded successfully!")
 
+# Check if CSV file format matches
+def check_csv_format(filename):
+    required_fields = ['Noun', 'Noun_Description', 'Adjective', 'Adjective_Synonyms', 'Rating', 'Is_Humorous', 'Sentiment', 'Is_Ironic', 'Is_Punny']
+    try:
+        with open(filename, 'r') as csvfile:
+            reader = csv.DictReader(csvfile)
+            if reader.fieldnames == required_fields:
+                return True
+            else:
+                return False
+    except Exception as e:
+        print(f"Error checking CSV format: {e}")
+        return False
+
 # Set output CSV file name
 def set_output_csv_name():
-    global output_csv_filename
-    output_csv_filename = filedialog.asksaveasfilename(title="Save as", filetypes=[("CSV files", "*.csv")], defaultextension=".csv")
-    if output_csv_filename:
-        label_csv_file.config(text=f"CSV file: {output_csv_filename.split('/')[-1]}")
-        messagebox.showinfo("File Name Set", "Output CSV file name set successfully!")
+    global output_csv_filename, csvfile, writer
+    choice = messagebox.askquestion("Select Option", "Creat a new file?")
+
+    if choice == 'yes':
+        output_csv_filename = filedialog.asksaveasfilename(title="Save as", filetypes=[("CSV files", "*.csv")], defaultextension=".csv")
+        if output_csv_filename:
+            csvfile = open(output_csv_filename, 'w', newline='')
+            fieldnames = ['Noun', 'Noun_Description', 'Adjective', 'Adjective_Synonyms', 'Rating', 'Is_Humorous', 'Sentiment', 'Is_Ironic', 'Is_Punny']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            label_csv_file.config(text=f"CSV file: {output_csv_filename.split('/')[-1]}")
+            messagebox.showinfo("File Name Set", "Output CSV file name set successfully!")
+    else:
+        output_csv_filename = filedialog.askopenfilename(title="Select CSV file", filetypes=[("CSV files", "*.csv")])
+        if output_csv_filename and check_csv_format(output_csv_filename):
+            csvfile = open(output_csv_filename, 'a', newline='')
+            writer = csv.DictWriter(csvfile, fieldnames=['Noun', 'Noun_Description', 'Adjective', 'Adjective_Synonyms', 'Rating', 'Is_Humorous', 'Sentiment', 'Is_Ironic', 'Is_Punny'])
+            label_csv_file.config(text=f"CSV file: {output_csv_filename.split('/')[-1]} loaded")
+            messagebox.showinfo("File Loaded", "Existing CSV file loaded successfully!")
+        else:
+            messagebox.showerror("Error", "Selected file format is incorrect or no file selected.")
 
 # Submit the current evaluation and update to the next word pair
 def submit_and_update():
-    global current_sample
+    global current_sample, writer, csvfile
+
+    if csvfile is None or csvfile.closed:
+        print("CSV file is not open. Exiting.")
+        return
 
     results = {
         "rating": rating_var.get(),
@@ -79,7 +113,13 @@ def submit_and_update():
     else:
         messagebox.showinfo("Completed", "Dataset generation completed!")
         eval_window.destroy()
-        close_csv_file()  # Close the file after all samples are processed
+        close_csv_file()
+
+# Save progress and exit
+def save_and_exit():
+    if messagebox.askyesno("Confirm Exit", "Do you want to save the current progress and exit?"):
+        close_csv_file()
+        eval_window.destroy()
 
 # Update the evaluation window content
 def update_evaluation_window():
@@ -88,7 +128,7 @@ def update_evaluation_window():
     current_noun = random.choice(list(nouns_with_descriptions.keys()))
     current_adjective = random.choice(list(adjectives_with_synonyms.keys()))
     
-    eval_window.title(f"'{current_adjective}' vs '{current_noun}'")
+    eval_window.title(f"'{current_adjective}' vs '{current_noun}' ({current_sample+1}/{num_samples})")
     
     rating_var.set(0)
     humor_var.set(0)
@@ -101,12 +141,6 @@ def generate_dataset():
     global current_sample, num_samples, writer, csvfile, eval_window
     
     num_samples = int(entry_samples.get())  # Get the number of samples from user input
-    
-    csvfile = open(output_csv_filename, 'w', newline='')  # Open the file
-    fieldnames = ['Noun', 'Noun_Description', 'Adjective', 'Adjective_Synonyms', 'Rating', 'Is_Humorous', 'Sentiment', 'Is_Ironic', 'Is_Punny']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-
     current_sample = 0
 
     # Create the evaluation window
@@ -121,7 +155,7 @@ def generate_dataset():
 
     global humor_var
     humor_var = tk.IntVar(value=0)
-    tk.Checkbutton(eval_window, text=f"Is it funny?", variable=humor_var).pack(pady=5)
+    tk.Checkbutton(eval_window, text=f"Funny?", variable=humor_var).pack(pady=5)
 
     global sentiment_var
     sentiment_var = tk.IntVar(value=0)
@@ -141,6 +175,7 @@ def generate_dataset():
     tk.Checkbutton(eval_window, text=f"Punny?", variable=punny_var).pack(pady=5)
 
     tk.Button(eval_window, text="Submit", command=submit_and_update).pack(pady=10)
+    tk.Button(eval_window, text="Save and Exit", command=save_and_exit).pack(pady=10)
 
     # Initialize the window content
     update_evaluation_window()
@@ -165,21 +200,21 @@ button_load_red.pack(pady=5)
 
 label_green_file = tk.Label(root, text="Green card file: Not loaded")
 label_green_file.pack(pady=5)
-button_load_green = tk.Button(root, text="Load Green Card File", command=lambda: load_file('Green'))
+button_load_green= tk.Button(root, text='Load Green Card File', command=lambda: load_file('Green'))
 button_load_green.pack(pady=5)
 
-label_csv_file = tk.Label(root, text="CSV file: Not set")
+label_csv_file = tk.Label(root, text='CSV file: Not set')
 label_csv_file.pack(pady=5)
-button_set_csv = tk.Button(root, text="Set Output CSV Filename", command=set_output_csv_name)
+button_set_csv = tk.Button(root, text='Set Output CSV Filename', command=set_output_csv_name)
 button_set_csv.pack(pady=5)
 
-label_samples = tk.Label(root, text="Number of Samples:")
+label_samples = tk.Label(root, text='Number of Samples:')
 label_samples.pack(pady=5)
 entry_samples = tk.Entry(root)
-entry_samples.insert(0, "20")
+entry_samples.insert(0, '20')
 entry_samples.pack(pady=5)
 
-button_generate = tk.Button(root, text="Generate Dataset", command=generate_dataset)
+button_generate = tk.Button(root, text='Generate Dataset', command=generate_dataset)
 button_generate.pack(pady=20)
 
 root.mainloop()
