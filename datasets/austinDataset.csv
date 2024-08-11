@@ -1,0 +1,342 @@
+Noun,Noun_Description,Adjective,Adjective_Synonyms,Rating,Is_Humorous,Sentiment,Is_Ironic,Is_Punny
+Industrial Revolution,"The first Industrial Revolution occurred in Great Britain at the end of the 1700s. The second came with the invention of the ""Clapper.""",Adorable,"lovable, charming, delightful",-0.2,1,0,1,0
+The San Andreas Fault,Geological feature in California stretching 600 miles. Like the state doesn't have enough faults already.,Horrifying,"offensive, abominable, disgusting",0.4,0,-1,0,0
+Abraham Lincoln,"1809-65, 16th U.S. president, led the Union to victory in the American Civil War and abolished slavery. Was assassinated for his efforts.",Desperate,"frantic, headlong, reckless",-0.2,0,0,0,0
+William Shakespeare,"1564-1616, The English poet and playwright. And all the world IS a stage ...",Graceful,"elegant, supple, limber",0.8,0,1,0,0
+Anne Frank,"1929-45, German Jewish girl who wrote in her diary about her family hiding from the Nazis. She died in a concentration camp.",Frazzled,"exhausted, frayed, worn",-0.3,0,-1,0,0
+New Orleans,The Big Easy.,Talented,"gifted, clever, skillful",0.5,0,0,0,0
+The 1920s,Pros: the Jazz Age. Cons: Presidents who look like librarians.,Easy,"effortless, gentle, promiscuous",0.2,0,0,0,0
+Blizzard,"Extreme cold, strong winds, and a head snowfall. Also known as Canada.",Expensive,"costly, valuable, exorbitant",0,0,0,0,0
+The JFK Assassination,"November 22, 1963. The funeral of President Kennedy was watched on television by millions around the world.",Corrupt,"dishonest, underhanded, shady",0.8,0,-1,0,0
+Oranges,Face it ... nothing rhymes with orange.,Casual,"easygoing, blase, nonchalant",0.2,0,0,0,0
+Getting A Hug,Hmmmm ... nice.,Expensive,"costly, valuable, exorbitant",-0.6,1,0,1,0
+Hollywood,Motion picture and television industry center of the world. Hooray for Hollywood!,Speedy,"quick, rapid, fast",0.3,0,0,0,0
+Silk,"Produced as a cocoon covering by the silk worm, and used in fine fabrics and textiles.",Adorable,"lovable, charming, delightful",0.5,0,1,0,0
+Worms,"""A man may fish with the worm that hath eat of a king, and eat of the fish that has fed of that worm."" ""Hamlet"" Shakespeare",Sappy,"gooey, mushy, romantic",0.1,0,-1,0,0
+The Great Depression,Prozac was invented six decades too late.,Outrageous,"shocking, scandalous, disgraceful",0.4,0,-1,0,0
+A Sunset,The sun never set on the British Empire ... because God didn't trust the English in the dark.,Distinguished,"dignified, extraordinary, acclaimed",0.4,0,1,0,0
+Spit,"Ladies and gentlemen, straight from the Salivary Glands ...",Temperamental,"moody, irritable, short",0.3,0,-1,0,0
+Cactus,"Require little care and exhibit bizarre forms. As such, they are often mistaken for Survivalists.",Delicious,"tasty, pleasing, appetizing",0.2,1,0,1,0
+The Indy 500,Contestants must drive the full 500 miles. Bathroom breaks ARE allowed.,Outrageous,"shocking, scandalous, disgraceful",0.7,0,1,0,0
+Toys,"They're not just for kids, anymore ...",Zany,"crazy, funny, wacky",0.8,1,1,0,0
+The French Riviera,"Holiday home of the rich, the famous, and the halfnaked.",Sensual,"tactile, pleasing, sexual",0.9,0,1,0,0
+Picking Your Nose,Noses run in our family.,Normal,"usual, common, ordinary",0.3,1,0,1,0
+Remote Controls,"The world's handiest invention. That is, if you can find it.",Zany,"crazy, funny, wacky",0.2,1,0,0,0
+Mud,Water. Dirt. You do the math.,Scary,"frightening, absurd, ugly",0.1,0,-1,0,0
+Oranges,Face it ... nothing rhymes with orange.,Casual,"easygoing, blase, nonchalant",0.2,0,0,0,0
+Being In Love,"""Love's like the measles, all the worse when it comes late."" Douglas Jerrold",Hopeless,"pessimistic, desperate, downhearted",0.5,0,-1,1,0
+Blood,A healthy human body contains between five and six quarts of blood. Bloody right they do!,Influential,"powerful, prominent, important",0.3,0,0,0,0
+Socks,"""Black socks, they never get dirty, the longer you wear them the stronger they get."" Bill Harley",Delicate,"dainty, tender, elegant",0.5,0,0,0,0
+Bill Gates,"1955, chairman and chief software architect of Microsoft Corporation. A very rich guy.",Saintly,"virtuous, angelic, divine",0.4,0,1,1,0
+Eyes,Lightsensitive organ of vision in animals. See?,Important,"significant, substantial, momentous",0.8,0,1,0,0
+Charging Rhinos,How do you stop a rhino from charging? Take away its credit cards.,Patriotic,"nationalistic, loyal, public",0.1,1,0,0,0
+My First Kiss,"Sparks were flying. Of course, that could have been the braces ...",Pure,"innocent, unadulterated, chaste",0.7,0,1,0,0
+South Africa,"Two oceans, rugged mountains, traditional villages, game sanctuaries, wineries...forget the past and bring on the tourists.",Patriotic,"nationalistic, loyal, public",0.8,0,0,0,0
+Clark Gable,"190160, American film actor, noted as a romantic lead. Frankly, my dear, he didn't give a damn.",Distinguished,"dignified, extraordinary, acclaimed",0.9,0,1,0,0
+My Bedroom,"""No one knows what goes on behind closed doors."" Charlie Rich",Cool,"chilly, hip, cold",0.5,0,1,0,0
+Steven Spielberg,"1947, American movie director and producer, and overachiever. From E.T. to Schindler's List... too many to list.",Phony,"false, artificial, imitation",-0.6,0,-1,1,0
+The Milky Way,"The galaxy that includes the sun, its solar system, and a chewy layer of caramel.",Hopeless,"pessimistic, desperate, downhearted",-0.5,0,-1,0,0
+Clark Gable,"190160, American film actor, noted as a romantic lead. Frankly, my dear, he didn't give a damn.",Mischievous,"naughty, prankish, sly",0.6,0,1,0,0
+Hillary Rodham Clinton,"1947 , New York Senator, lawyer, and former American First Lady.",Saintly,"virtuous, angelic, divine",0.1,0,0,1,0
+Pigs,"Domesticated mammal of the swine family. Thaaa ... thaaa ... that's all, folks!",Arrogant,"egotistical, overconfident, conceited",0.25,1,-1,0,0
+Communists,"""From each, according to their ability, to each according to their need."" I need a new Ferrari.",Cheesy,"trashy, tawdry, far",0.1,1,-1,0,0
+The 1960s,"Pros: the Moon Lsnding, the music. Cons: hippies who refuse to believe they're over.",Principled,"conscientious, ethical, scrupulous",0.8,0,1,0,0
+A Car Crash,"""Hey, it was an accident!""",Dainty,"delicate, fragile, thin",-0.85,1,-1,1,0
+The Gulf War,"January  February, 1991. This six week conflict with Iraq was also known as ""Desert Storm.""",Awkward,"clumsy, bumbling, uncoordinated",0.1,0,-1,1,0
+The Great Depression,Prozac was invented six decades too late.,Profound,"deep, wise, thoughtful",0.9,0,-1,0,0
+The Statue Of Liberty,"""Give me your tired, your poor/ Your huddled masses yearning to breathe free ..."" Emma Lazarus",Principled,"conscientious, ethical, scrupulous",0.9,0,1,0,0
+Robin Williams,"1952 , versatile American comedian and actor. The furriest man in show business.",Saintly,"virtuous, angelic, divine",0.4,0,1,0,0
+Yellowstone Park,"Home to 3000 geysers and hot springs. More gas and hot air than Washington, D.C.",Scary,"frightening, absurd, ugly",0.4,0,-1,0,0
+Earthquakes,The Richter scale is named after the American seismologist Charles Richter. Did the earth move for you?,Cuddly,"loving, tender, huggable",-0.9,1,-1,1,0
+Skydiving,Parachute canopies are usually made from nylon fabric that lasts for thousands of jumps  whether the skydiver does or not.,Creepy,"frightening, slithering, scary",0.2,0,-1,0,0
+Handcuffs,"""You have the right to remain silent...""",Odd,"different, eccentric, bizarre",0.3,1,0,0,0
+My Bathroom,"""The bathroom was drenched with their splashings"" Aldous Huxley",Dangerous,"risky, chancy, hazardous",0.35,1,0,1,0
+Cinco de Mayo,"Marks the victory of the Mexican Army over the French at the Battle of Puebla, in 1862.",Magical,"enchanting, miraculous, marvelous",0.7,0,1,0,0
+Gravity,"In 1684, the law of gravitation was formulated by English physicist Sir Isaac Newton, who recognized the gravity of the situation.",Loud,"noisy, boisterous, deafening",0,0,0,0,0
+James Bond,"Fictional British secret agent created by English author Ian Fleming. Shaken, but never stirred.",Colorful,"vivid, brilliant, kaleidoscopic",0.3,1,0,1,0
+Mahatma Gandhi,"1869-1948, Indian leader and philosopher who preached nonviolence. Was assassinated for his efforts.",Industrious,"diligent, busy, hard",0.8,0,1,0,0
+Snakes,"Surprising, snakes move rapidly without legs. Also surprising, they find OTHER snakes attractive.",Cool,"chilly, hip, cold",0.6,0,0,0,0
+Humphrey Bogart,"1899-1957, American film actor, starred in such classics as The Maltese Falcon and Casablanca. ""Here's looking at you kid.""",Lucky,"fortunate, serendipitous, favored",0.5,0,0,0,0
+Pond Scum,Simple organisms that carry out photosynthesis ... or spammers.,Pure,"innocent, unadulterated, chaste",-0.8,1,-1,1,0
+Chains,Gold or iron: name your shackles.,Awkward,"clumsy, bumbling, uncoordinated",0.3,0,-1,0,0
+Jacques Cousteau,"1910-97, French naval officer, marine explorer, and author. Best known as a documentary filmmaker.",Outrageous,"shocking, scandalous, disgraceful",0.3,0,0,0,0
+Walt Disney,"1901-1966, the head of some Mickey Mouse company.",Fabulous,"marvelous, wonderful, incredible",0.8,0,1,0,0
+Wheat,Mainly used in flour. World output of wheat is more than 600 million metric tons a year ... so someone's making a lot of dough.,Principled,"conscientious, ethical, scrupulous",0.1,1,0,0,0
+Inside The Sun,"Consisting mostly of hydrogen, the temperature reaches almost 16,000,000 K (about 29,000,000 F).",Smooth,"even, level, flat",-0.8,1,0,1,0
+Snakes,"Surprising, snakes move rapidly without legs. Also surprising, they find OTHER snakes attractive.",Ridiculous,"preposterous, absurd, ludicrous",0.3,1,0,0,0
+Snakes,"Surprising, snakes move rapidly without legs. Also surprising, they find OTHER snakes attractive.",Nerdy,"unhip, uncool, dorky",0.05,1,0,0,0
+Helen Keller,"1880-1968, American author and lecturer who overcame deafness and blindness with the help of her companion, Anne Sullivan.",Cuddly,"loving, tender, huggable",0.1,0,0,0,0
+"Paris, France","The governmental, cultural and gastronomic capital of France. Or the world. Just ask the French.",Extreme,"exceptional, superlative, radical",0.6,0,0,0,0
+Blizzard,"Extreme cold, strong winds, and a head snowfall. Also known as Canada.",Obnoxious,"offensive, repulsive, annoying",0.4,0,-1,0,0
+Cockroaches,"Annoying insects that can survive a nuclear war. Fortunately, they can't survive the heel of your shoe.",Rich,"wealthy, affluent, moneyed",-0.8,1,-1,1,0
+Mold,Fuzzy growth produced on organic matter by several types of fungi. Particularly attracted to students' refrigerators,Adorable,"lovable, charming, delightful",-0.8,1,-1,1,0
+Lobster,Crustaceans closely related to freshwater crayfishes. Market price.,Sappy,"gooey, mushy, romantic",0.1,1,0,0,0
+Pablo Picasso,"1881-1973, Spanish painter and sculptor, one of the greatest artists of the 20th century. If only he could draw eyes ...",Charming,"captivating, enchanting, fascinating",0.6,0,1,0,0
+Lightning,"Electrical discharge between rain clouds, or between a rain cloud and the earth, or between a rain cloud and an idiot with a kite.",Zany,"crazy, funny, wacky",0.25,1,0,1,0
+Elizabeth Taylor,"1932 , American actor, noted for her lush beauty, emotional performances and multiple husbands.",Important,"significant, substantial, momentous",0.8,0,1,0,0
+A Crawl Space,Where you'll find something the cat dragged in.,Corrupt,"dishonest, underhanded, shady",0.2,0,-1,0,0
+Tree Huggers,"""Environmentalists"" to the left. ""Wackos"" to the right.",Unforgettable,"notable, impressive, remarkable",0.5,0,0,0,0
+The First Day Of School,"""Fear has many eyes."" Cervantes",Hilarious,"funny, witty, amusing",0.35,1,1,0,0
+The Electric Chair,"In U.S. prisons, an alternating current of about 2000 volts is used for electrocution.",Sappy,"gooey, mushy, romantic",-0.9,0,-1,1,0
+Spiders,"There are more than 34,000 species of spiders. Try not to think about THAT right before bedtime.",Easy,"effortless, gentle, promiscuous",0.15,0,0,0,0
+Going To The Gym,"No pain, no gain.",Dangerous,"risky, chancy, hazardous",0.4,0,-1,0,0
+Marilyn Monroe,"1926-62, American movie star, pinup and sex symbol. Just ask the Kennedys.",Swift,"quick, speedy, expeditious",0.3,0,0,0,0
+Gravity,"In 1684, the law of gravitation was formulated by English physicist Sir Isaac Newton, who recognized the gravity of the situation.",Creative,"imaginative, artistic, original",0.5,0,0,0,0
+Charging Rhinos,How do you stop a rhino from charging? Take away its credit cards.,Stunning,"astonishing, staggering, astounding",0.7,0,0,0,1
+Leonardo Da Vinci,"1452-1519, Florentine artist, sculptor, architect, engineer, scientist, and allaround smartypants.",Unscrupulous,"unethical, corrupt, unprincipled",-0.6,0,-1,1,0
+Funerals,"""He who dies with the most toys is, nonetheless, still dead.""  Anonymous",Rich,"wealthy, affluent, moneyed",0.35,0,-1,1,0
+Eleanor Roosevelt,"1884-1962, first lady, social activist, author, lecturer, and U.S. representative to the United Nations.",Responsible,"accountable, obligated, mature",0.85,0,0,0,0
+Machine Guns,"Automatic, rapidfire, repeating weapons. The Gatling gun was used as early as the American Civil War.",Wild,"untamed, savage, ferocious",0.7,0,-1,0,0
+Tree Huggers,"""Environmentalists"" to the left. ""Wackos"" to the right.",Mischievous,"naughty, prankish, sly",0.6,1,0,0,0
+Tornadoes,"Funnelshaped cloud whirling destructively at speeds up to 300 mph. ""Honey, do you hear a freight train ... Honey?""",Hopeless,"pessimistic, desperate, downhearted",0.7,0,-1,0,0
+The Universe,"Everything. The big ""It."" Huge. Massive. THAT big.",Temperamental,"moody, irritable, short",0.4,0,0,0,0
+James Bond,"Fictional British secret agent created by English author Ian Fleming. Shaken, but never stirred.",Scary,"frightening, absurd, ugly",0.2,0,0,0,0
+The Beatles,"1960s British band. Only the most revolutionary, influential and universally acclaimed group of the 20th century. That's all.",Visionary,"idealistic, prophetic, far",0.9,0,1,0,0
+Hillary Rodham Clinton,"1947 , New York Senator, lawyer, and former American First Lady.",Honorable,"honest, just, virtuous",0.5,0,0,0,0
+The 1960s,"Pros: the Moon Lsnding, the music. Cons: hippies who refuse to believe they're over.",Hardworking,"industrious, diligent, busy",0.6,0,1,0,0
+My Hair,"Hair today, gone tomorrow ...",Awkward,"clumsy, bumbling, uncoordinated",0.5,1,0,0,0
+Eleanor Roosevelt,"1884-1962, first lady, social activist, author, lecturer, and U.S. representative to the United Nations.",Pure,"innocent, unadulterated, chaste",0.65,0,1,0,0
+Rain,"""When the rain comes, they run and hide their heads; they might as well be dead."" The Beatles",Courageous,"brave, gallant, dauntless",0.15,0,0,0,0
+The South,Dixie: South of the MasonDixon line that is. They're not like folks 'round here ...,Casual,"easygoing, blase, nonchalant",0.6,0,1,0,0
+Giving A Hug,"""One may give without loving; but none can love without giving."" Anonymous",Rich,"wealthy, affluent, moneyed",0.2,0,1,0,0
+Infomercials,"One of these days, one of them may even say something informative.",Delicious,"tasty, pleasing, appetizing",0.1,1,0,0,0
+Charging Rhinos,How do you stop a rhino from charging? Take away its credit cards.,Fresh,"new, original, good",0.1,0,0,0,0
+Pro Wrestling,"They're just faking it. But then, so are we.",Awkward,"clumsy, bumbling, uncoordinated",0.35,1,0,0,0
+The Mississippi River,"The Algonquin words ""Misi sipi"" mean ""big river."" What's Algonquin for ""muddy""?",Fresh,"new, original, good",0.25,0,0,1,0
+The Universe,"Everything. The big ""It."" Huge. Massive. THAT big.",Awkward,"clumsy, bumbling, uncoordinated",0.1,1,0,1,0
+Cinco de Mayo,"Marks the victory of the Mexican Army over the French at the Battle of Puebla, in 1862.",Rich,"wealthy, affluent, moneyed",0.4,0,1,0,0
+Will Smith,"1968 , Successful American rap star, TV star and wildly successful motion picture star. He's got it all. We hate him.",Visionary,"idealistic, prophetic, far",0.35,0,1,0,0
+Teachers,"If you can play this game, thank a teacher.",Wicked,"evil, corrupt, depraved",0.2,0,-1,0,0
+Saddam Hussein,"1937, dictator of Iraq 19792003.",Luxurious,"opulent, lavish, sumptuous",0.35,0,-1,1,0
+The Land Of Oz,"""I've a feeling we're not in Kansas anymore, Toto."" Dorothy, ""The Wizard Of Oz""",Selfish,"stingy, greedy, miserly",0.15,0,0,0,0
+Cocaine,Alkaloid obtained from leaves of the coca plant and used as a local anesthetic and abused as a drug.,Brilliant,"dazzling, gleaming, intelligent",0.3,1,0,0,0
+My Future,"""The future's so bright, I gotta wear shades ..."" Timbuk3",Boisterous,"loud, rambunctious, rowdy",0.3,0,1,0,0
+Spit,"Ladies and gentlemen, straight from the Salivary Glands ...",Calm,"peaceful, tranquil, placid",-0.7,1,0,1,0
+Machine Guns,"Automatic, rapidfire, repeating weapons. The Gatling gun was used as early as the American Civil War.",Easy,"effortless, gentle, promiscuous",-0.6,0,0,1,0
+Abraham Lincoln,"1809-65, 16th U.S. president, led the Union to victory in the American Civil War and abolished slavery. Was assassinated for his efforts.",Colorful,"vivid, brilliant, kaleidoscopic",-0.5,0,0,1,0
+Leonardo Da Vinci,"1452-1519, Florentine artist, sculptor, architect, engineer, scientist, and allaround smartypants.",Handsome,"attractive, elegant, fine",0.4,0,1,0,0
+Fourth Of July,"""Independence Day"" in the United States. ""Thank Goodness We Got Rid of Them Day"" in Britain.",Adorable,"lovable, charming, delightful",0.2,0,1,0,0
+Lobster,Crustaceans closely related to freshwater crayfishes. Market price.,Creepy,"frightening, slithering, scary",0.5,1,0,0,0
+San Francisco,California's City by the Bay. Where many hearts are left.,Feminine,"womanly, ladylike, unmanly",0.2,0,0,0,0
+Paying Bills,"Also known as ""Debt Restructuring.""",Sexy,"arousing, appealing, seductive",-0.8,1,-1,1,0
+Hawaii,"The eight islands that make up America's 50th state entered the Union on August 21, 1959.",Talented,"gifted, clever, skillful",0.3,0,1,0,0
+"Martin Luther King, Jr.","1929-68, American civil rights leader and advocate of nonviolent resistance. Was assassinated for his efforts.",Influential,"powerful, prominent, important",1,0,1,0,0
+Lightning,"Electrical discharge between rain clouds, or between a rain cloud and the earth, or between a rain cloud and an idiot with a kite.",Crazed,"insane, wild, deranged",0.5,0,0,0,0
+The Grateful Dead,"American rock band, founded in 1965 and best known for their ""Dead Head"" fans.",Distinguished,"dignified, extraordinary, acclaimed",0.55,0,1,0,0
+William Shakespeare,"1564-1616, The English poet and playwright. And all the world IS a stage ...",Stunning,"astonishing, staggering, astounding",0.7,0,1,0,0
+Cocaine,Alkaloid obtained from leaves of the coca plant and used as a local anesthetic and abused as a drug.,Expensive,"costly, valuable, exorbitant",0.9,0,0,0,0
+Lollipops,Sucker!,Luxurious,"opulent, lavish, sumptuous",-0.4,1,0,1,0
+Robin Williams,"1952 , versatile American comedian and actor. The furriest man in show business.",Handsome,"attractive, elegant, fine",0.6,0,1,0,0
+Morticians,Why do you hang around with THOSE stiffs ...?,Wicked,"evil, corrupt, depraved",-0.2,1,-1,1,0
+Giant Squid,Going fishing for giant squid? Nautilus I have to ...,Dangerous,"risky, chancy, hazardous",0.8,0,-1,0,0
+Mud,Water. Dirt. You do the math.,Hopeless,"pessimistic, desperate, downhearted",0.3,0,-1,0,0
+Piranha,Carnivorous fish found in rivers of South America. When you feel like a bite ...,Wild,"untamed, savage, ferocious",0.8,0,-1,0,0
+Alfred Hitchcock,"1899-1980, Britishborn American director and producer of brilliant psychological thrillers. Right, mother? MOTHER!",Dangerous,"risky, chancy, hazardous",0.45,0,0,0,0
+Martha Stewart,"1941, television personality, magazine editor, and author. Domestic arts are her stockintrade.",Creepy,"frightening, slithering, scary",-0.7,1,-1,1,0
+Madonna,"1958, American singer, songwriter, actor, writer, and 1980s pop icon. Blond Ambition.",Misunderstood,"not grasped, not learned, not absorbed",0.6,0,0,0,0
+My Boss,... is an idiot. You know it; we know it.,Hilarious,"funny, witty, amusing",0.3,1,1,0,0
+Doing The Dishes,"You wash, I'll watch.",Outrageous,"shocking, scandalous, disgraceful",-0.8,1,0,1,0
+Walt Disney,"1901-1966, the head of some Mickey Mouse company.",Distinguished,"dignified, extraordinary, acclaimed",0.85,0,1,0,0
+Homework,"Finally, something to do during commercials.",Sweet,"sugary, caring, good",-0.5,1,0,1,0
+Americans,How many Americans does it take to screw in a light bulb? THAT'S NOT FUNNY! WE'RE SUING!,Casual,"easygoing, blase, nonchalant",0.7,0,0,0,0
+Snow,Transparent ice crystals which form around dust and other small particles. Get my drift?,Scary,"frightening, absurd, ugly",0.3,0,-1,0,0
+William Shakespeare,"1564-1616, The English poet and playwright. And all the world IS a stage ...",Animated,"lively, exuberant, spirited",0.4,0,1,0,0
+The Wright Brothers,"In 1903, Wilbur and Orville made the first powered airplane flights in history. Although there were delays at the airport.",Principled,"conscientious, ethical, scrupulous",0.7,0,1,0,0
+Paying Bills,"Also known as ""Debt Restructuring.""",Unforgettable,"notable, impressive, remarkable",-0.6,1,0,1,0
+Plastic,Giant molecules of organic polymeric materials. Bags and bags of the stuff.,Magical,"enchanting, miraculous, marvelous",-0.5,1,0,1,0
+Killer Whales,"Black and white predatory whales. Boy, can they sing!",Corrupt,"dishonest, underhanded, shady",-0.5,0,-1,1,0
+Spit,"Ladies and gentlemen, straight from the Salivary Glands ...",Dangerous,"risky, chancy, hazardous",0.3,0,-1,0,0
+My Body,"Mine is a temple. Specifically, the Temple of Doom ...",Delicate,"dainty, tender, elegant",0.7,0,0,0,0
+Mike Tyson,"1966 , American heavyweight boxer. Lend him your ear ...",Influential,"powerful, prominent, important",0.8,0,1,0,0
+China,The most populous country in the world. More than onefifth of the world's total population lives within its borders.,Perfect,"faultless, consummate, exact",0.2,0,0,0,0
+Fuzz,Lint ... Policemen ... Whatever ...,Casual,"easygoing, blase, nonchalant",0.2,0,0,0,0
+The KKK,"IF they're supposed to be the master race, why do they keep misspelling ""Clan""?",Profound,"deep, wise, thoughtful",0.5,0,-1,1,0
+Clark Gable,"190160, American film actor, noted as a romantic lead. Frankly, my dear, he didn't give a damn.",Industrious,"diligent, busy, hard",0.6,0,1,0,0
+Republicans,A U.S. political party symbolized by an elephant ... and don't forget it!,Boring,"dull, tedious, monotonous",0.35,0,0,0,0
+Oranges,Face it ... nothing rhymes with orange.,Hardworking,"industrious, diligent, busy",0.05,0,0,1,0
+My High School Prom,As if adolescence isn't awkward and painful enough ...,Easy,"effortless, gentle, promiscuous",0.3,0,0,0,0
+Captain Kirk,"Fictional starship captain. ""Beam me up Scotty, there is no intelligent life on this planet!""  bumper sticker, 1980s",Magical,"enchanting, miraculous, marvelous",0.3,0,0,0,0
+At My Parent's House,"Like nevernever land, you're never seen as an adult here.",Sexy,"arousing, appealing, seductive",-0.75,1,-1,1,0
+The Mafia,"A loose association of criminal groups, bound by a blood oath and sworn to secrecy. Of course, now we have to kill you.",Hardworking,"industrious, diligent, busy",0.5,0,-1,1,0
+The Grateful Dead,"American rock band, founded in 1965 and best known for their ""Dead Head"" fans.",Zany,"crazy, funny, wacky",0.6,0,0,0,0
+Pigs,"Domesticated mammal of the swine family. Thaaa ... thaaa ... that's all, folks!",Handsome,"attractive, elegant, fine",-0.7,1,0,1,0
+Picking Your Nose,Noses run in our family.,Horrifying,"offensive, abominable, disgusting",0.2,1,0,1,0
+My Past,What's past is past ... unless you're a politician ...,Primitive,"prehistoric, primal, uncivilized",0.2,0,0,0,0
+Playing Chess,Has tantalized many of the world's greatest minds for almost 14 centuries. It just confuses the rest of us.,Hilarious,"funny, witty, amusing",-0.5,0,0,1,0
+Skateboarding,It's just going downhill ... down stairs ... down ramps ...,Primitive,"prehistoric, primal, uncivilized",-0.2,0,0,0,0
+The Renaissance,"Beginning in the 1300s, started in Italy and spread across Europe. Kind of like Espresso bars ...",Selfish,"stingy, greedy, miserly",-0.6,0,0,1,0
+Redwood Forests,"""From the Redwood Forests to the Gulf Stream Waters/ This land was made for you and me."" Woody Guthrie",Offensive,"insulting, vulgar, attacking",-0.8,0,-1,1,0
+Spiders,"There are more than 34,000 species of spiders. Try not to think about THAT right before bedtime.",Selfish,"stingy, greedy, miserly",0.4,0,-1,0,0
+Fur,The characteristic covering of mammals and people with money.,Earthy,"unrefined, natural, crude",0.6,0,0,0,0
+Sharks,Many species living today are similar to those from 100 million years ago. Because change is scary.,Important,"significant, substantial, momentous",0.6,0,0,0,0
+A Used Car Lot,One of the most honest places around. Honest ...,Dangerous,"risky, chancy, hazardous",0.25,0,-1,0,0
+Giant Squid,Going fishing for giant squid? Nautilus I have to ...,Trustworthy,"honest, reliable, unfailing",-0.5,1,0,1,0
+Michelle Pfeiffer,"1957, American actor whose career began with Grease 2. She'd like us to forget that but remember her Oscar nominations.",Unforgettable,"notable, impressive, remarkable",0.75,0,0,0,0
+Bonbons,Sweets for the sweet ...,Cuddly,"loving, tender, huggable",-0.3,0,0,1,0
+Napoleon Bonaparte,"1769-1821, Emperor of France. Met his Waterloo at the Battle of Waterloo. The name should have tipped him off ...",Sexy,"arousing, appealing, seductive",0.3,1,0,1,0
+My Past,What's past is past ... unless you're a politician ...,Dramatic,"exciting, sensational, theatrical",0.5,0,0,0,0
+Dr. Seuss,"1904-1991, Theodor Suess Geisel , the cat who came up with ""The Cat in the Hat.""",Fresh,"new, original, good",0.7,0,1,0,0
+Hollywood,Motion picture and television industry center of the world. Hooray for Hollywood!,Handsome,"attractive, elegant, fine",0.8,0,1,0,0
+Superman,Fictional comic book superhero loved by Lois Lane and Jerry Seinfeld.,Influential,"powerful, prominent, important",0.9,0,1,0,0
+Lollipops,Sucker!,Charming,"captivating, enchanting, fascinating",0.35,0,1,0,0
+Giant Squid,Going fishing for giant squid? Nautilus I have to ...,Sexy,"arousing, appealing, seductive",-0.9,1,0,1,0
+Chicago,Third largest city in the United States. Our kind of town.,Stereotyped,"pigeonholed, caricatured, characterized",0.7,0,0,0,0
+Hangnails,We've fingered the cause of the pain.,Arrogant,"egotistical, overconfident, conceited",0.05,1,-1,0,0
+Italy,"European Republic, shaped like a boot  a very fashionable boot.",Inspirational,"exhilarating, inspiring, stimulating",0.75,0,1,0,0
+London,"Founded even before the Romans reached England's shores, now the capital of Great Britain.",Inspirational,"exhilarating, inspiring, stimulating",0.65,0,1,0,0
+Normal Rockwell,"1894-1978, American painter, illustrator and allaround interpreter of small town American life.",Timeless,"classic, ageless, well",0.8,0,1,0,0
+Saddam Hussein,"1937, dictator of Iraq 19792003.",Patriotic,"nationalistic, loyal, public",0.6,0,0,0,0
+Chains,Gold or iron: name your shackles.,Speedy,"quick, rapid, fast",-0.8,0,0,1,0
+Alfred Hitchcock,"1899-1980, Britishborn American director and producer of brilliant psychological thrillers. Right, mother? MOTHER!",Profound,"deep, wise, thoughtful",0.65,0,0,0,0
+Joan Of Arc,"1412-31, patron saint of France who decisively turned the tide of the Hundred Years' War, which really burned her up.",Phony,"false, artificial, imitation",-0.7,0,-1,0,0
+The Opera,"It ain't over 'til the fat lady sings. Unfortunately, sometimes, not even then.",Temperamental,"moody, irritable, short",0.7,0,0,0,0
+A Crawl Space,Where you'll find something the cat dragged in.,Unforgettable,"notable, impressive, remarkable",-0.6,1,0,1,0
+Mold,Fuzzy growth produced on organic matter by several types of fungi. Particularly attracted to students' refrigerators,Misunderstood,"not grasped, not learned, not absorbed",0.4,0,0,0,0
+Plastic,Giant molecules of organic polymeric materials. Bags and bags of the stuff.,Sweet,"sugary, caring, good",-0.7,1,0,1,0
+Fidel Castro,"1927, Cuban revolutionary and Communist dictator since 1976. He earned a PhD in law in 1950.",Primitive,"prehistoric, primal, uncivilized",-0.6,0,0,0,0
+The Statue Of Liberty,"""Give me your tired, your poor/ Your huddled masses yearning to breathe free ..."" Emma Lazarus",Horrifying,"offensive, abominable, disgusting",-0.8,0,-1,1,0
+Mike Tyson,"1966 , American heavyweight boxer. Lend him your ear ...",Fabulous,"marvelous, wonderful, incredible",0.3,1,0,1,0
+Democrats,"Their symbol is the donkey, or ass. Insert your own joke here.",Powerful,"strong, forceful, robust",0.7,0,0,0,0
+Marriage,If love and marriage go together like a horse and carriage ... who's the horse?,Nasty,"mean, inclement, offensive",-0.7,0,-1,1,0
+Funerals,"""He who dies with the most toys is, nonetheless, still dead.""  Anonymous",Hilarious,"funny, witty, amusing",-0.9,0,-1,1,0
+Teachers,"If you can play this game, thank a teacher.",Horrifying,"offensive, abominable, disgusting",-0.6,0,-1,1,0
+Lollipops,Sucker!,Easy,"effortless, gentle, promiscuous",0.25,0,1,0,0
+Oprah Winfrey,"1954 , Television talk show host, actor and allaround American success story.",Handsome,"attractive, elegant, fine",0.2,0,0,0,0
+Swiss Chocolate,"""What use are cartridges in battle? I always carry chocolate instead."" George Bernard Shaw",Odd,"different, eccentric, bizarre",-0.6,0,0,0,0
+Oxygen,Oxygen was discovered in 1774. You'd think someone would have noticed it earlier.,Rough,"scratchy, uneven, jagged",-0.8,0,0,0,0
+Going To The Gym,"No pain, no gain.",Feminine,"womanly, ladylike, unmanly",-0.3,0,0,0,0
+Will Smith,"1968 , Successful American rap star, TV star and wildly successful motion picture star. He's got it all. We hate him.",Obnoxious,"offensive, repulsive, annoying",-0.5,0,-1,0,0
+Rust,"""Rust never sleeps."" Neil Young",Idiotic,"foolish, dumb, moronic",0.1,0,0,0,0
+The Electric Chair,"In U.S. prisons, an alternating current of about 2000 volts is used for electrocution.",Flirtatious,"brazen, saucy, forward",-0.9,1,-1,1,0
+The 1960s,"Pros: the Moon Lsnding, the music. Cons: hippies who refuse to believe they're over.",Perfect,"faultless, consummate, exact",-0.5,0,0,1,0
+James Dean,"1931-55, American actor of film, stage, and television. His role in Rebel Without a Cause helped define ""cool.""",Stereotyped,"pigeonholed, caricatured, characterized",0.65,0,0,0,0
+Homework,"Finally, something to do during commercials.",Wild,"untamed, savage, ferocious",-0.8,1,0,1,0
+The Dump,Just remember to recycle.,Feminine,"womanly, ladylike, unmanly",-0.9,1,0,1,0
+Underwear,"""Let's keep this brief.""",Filthy,"dirty, foul, unclean",0.65,1,-1,0,0
+Snakes,"Surprising, snakes move rapidly without legs. Also surprising, they find OTHER snakes attractive.",Feminine,"womanly, ladylike, unmanly",-0.6,1,0,1,0
+The 1950s,"Pros: Barbies, barbecues, and bikinis. Cons: McCarthy, the Korean War, television.",Courageous,"brave, gallant, dauntless",0.3,0,1,0,0
+Rappers,PAENTAL ADVISORY EXPLICIT CONTENT Hasn't seemed to hurt sales...,Feminine,"womanly, ladylike, unmanly",-0.6,0,0,1,0
+Weddings,"""Ding, dong, the bells are gonna chime ..."" My Fair Lady",Profound,"deep, wise, thoughtful",0.8,0,1,0,0
+Clint Eastwood,"1930, American film actor and director, past mayor of Carmel, California. Has earned fistfuls of dollars.",Creepy,"frightening, slithering, scary",-0.7,1,-1,1,0
+Taking A Bath,Bathing facilities have been found in excavations in India from before 2000 BC. SoaponaRope hasn't.,Phony,"false, artificial, imitation",0.05,0,0,0,0
+Socks,"""Black socks, they never get dirty, the longer you wear them the stronger they get."" Bill Harley",Ridiculous,"preposterous, absurd, ludicrous",-0.3,1,0,0,0
+Billboards,"Only 1,254 miles to Wall Drug ...",Demanding,"difficult, exacting, bothersome",-0.5,1,0,0,0
+Quentin Terantino,"1963 , Groundbreaking American director and actor. Nice movies, but not nearly enough blood.",Colorful,"vivid, brilliant, kaleidoscopic",0.7,0,1,0,0
+Fur,The characteristic covering of mammals and people with money.,Ancient,"elderly, old, antique",0.25,0,0,0,0
+Body Surfing,When you're too cheap to buy a surfboard.,Rich,"wealthy, affluent, moneyed",0.2,0,0,0,0
+Babe Ruth,"1895-1948, American baseball legend, and one heck of a candy bar!",Influential,"powerful, prominent, important",0.9,0,1,0,0
+Toys,"They're not just for kids, anymore ...",Stereotyped,"pigeonholed, caricatured, characterized",0.6,0,0,0,0
+John F. Kennedy,"1917-63, 35th president of the US. ""Ask not what your country can do for you; ask what you can do for your country.""",Powerful,"strong, forceful, robust",0.9,0,1,0,0
+Bangkok,Capital of Thailand. Location: near the Gulf of Siam. Population: five million. Reputation: seedy.,Graceful,"elegant, supple, limber",0.15,0,0,1,0
+My Bank Account,Speaking of theoretical mathematics and unreal numbers ...,Ridiculous,"preposterous, absurd, ludicrous",0.25,1,0,0,0
+Mirrors,"And now, a moment for reflection.",Misunderstood,"not grasped, not learned, not absorbed",-0.3,0,0,1,0
+Challenger Explosion,"""Without a wish, without a will/ I stood upon that silent hill/ and stared into the sky ...""  Ralph Hodgeson",Filthy,"dirty, foul, unclean",-0.6,0,-1,0,0
+Hillary Rodham Clinton,"1947 , New York Senator, lawyer, and former American First Lady.",Hilarious,"funny, witty, amusing",-0.5,1,0,1,0
+Tyrannosaurus Rex,"Large carnivorous dinosaur of the latter part of the Mesozoic era. My, what big teeth you have!",Crazed,"insane, wild, deranged",0.5,0,-1,0,0
+Barney,"Purple dinosaur. ""I love you, you love me, blah, blah, blah ... """,Visionary,"idealistic, prophetic, far",0.2,1,0,1,0
+Machine Guns,"Automatic, rapidfire, repeating weapons. The Gatling gun was used as early as the American Civil War.",Radical,"unconventional, revolutionary, extreme",0.5,0,-1,0,0
+Hot Lava,There's no better way to serve it.,Sexy,"arousing, appealing, seductive",0.2,1,0,1,1
+The Green Bay Packers,"Twelve time National Football League world champions, beloved by ""Cheeseheads"" everywhere. Are those brats done yet?",Creative,"imaginative, artistic, original",0.2,0,0,0,0
+High School Football,The whole ten yards!,Stereotyped,"pigeonholed, caricatured, characterized",0.7,0,0,0,0
+The 1920s,Pros: the Jazz Age. Cons: Presidents who look like librarians.,Hardworking,"industrious, diligent, busy",0.6,0,1,0,0
+Pond Scum,Simple organisms that carry out photosynthesis ... or spammers.,Smooth,"even, level, flat",-0.8,0,-1,1,0
+Republicans,A U.S. political party symbolized by an elephant ... and don't forget it!,Rich,"wealthy, affluent, moneyed",0.6,0,0,0,0
+Fuzz,Lint ... Policemen ... Whatever ...,Temperamental,"moody, irritable, short",-0.1,0,0,0,0
+My Family,"They'll drive you nuts. As long as you do the same to them, it's all even.",Frightening,"scary, horrifying, awesome",-0.7,0,-1,1,0
+Baked Potatoes,"Hot potato, couch potato, potato head, twice baked, halfbaked, ... whatever.",Powerful,"strong, forceful, robust",-0.4,1,0,0,0
+Princess Di,"1962-97, beloved English Princess who died in an auto crash. ""Goodbye England's Rose ..."" Elton John",Honorable,"honest, just, virtuous",0.9,0,1,0,0
+Oprah Winfrey,"1954 , Television talk show host, actor and allaround American success story.",Boisterous,"loud, rambunctious, rowdy",-0.3,0,0,1,0
+Diamonds,The hard fact: they are just highly refractive crystalline allotropes.,Wicked,"evil, corrupt, depraved",0.4,0,-1,0,0
+Bart Simpson,"Fictional animated character. Don't have a cow, man!""",Principled,"conscientious, ethical, scrupulous",-0.7,1,0,1,0
+California,"Sacramento is its capital, Los Angeles its largest city. Here we come.",Profound,"deep, wise, thoughtful",0.25,0,0,0,0
+Pumping Iron,When a great weight needs to be lifted.,Magical,"enchanting, miraculous, marvelous",-0.5,1,0,1,0
+My Body,"Mine is a temple. Specifically, the Temple of Doom ...",Nerdy,"unhip, uncool, dorky",-0.6,0,0,1,0
+Television,"Onehundred and sixtyfour channels, and nothing worth watching.",Offensive,"insulting, vulgar, attacking",0.45,0,-1,0,0
+Hairballs,"Cough it up, kitty ...",Cheesy,"trashy, tawdry, far",-0.1,1,0,0,0
+Oxygen,Oxygen was discovered in 1774. You'd think someone would have noticed it earlier.,Idiotic,"foolish, dumb, moronic",-0.2,0,0,0,0
+Television,"Onehundred and sixtyfour channels, and nothing worth watching.",Hostile,"antagonistic, aggressive, warlike",0.3,0,-1,0,0
+Electricity,The repulsive or attractive force between two stationary bodies. No problem unless one of those bodies is yours.,Visionary,"idealistic, prophetic, far",0.55,0,1,0,0
+The 1920s,Pros: the Jazz Age. Cons: Presidents who look like librarians.,Speedy,"quick, rapid, fast",0.6,0,0,0,0
+Lobster,Crustaceans closely related to freshwater crayfishes. Market price.,Misunderstood,"not grasped, not learned, not absorbed",0.2,1,0,0,0
+Thunder,"""Here it comes again, Thunder and Lightning..."" ELO.",Soft,"malleable, pliable, mushy",-0.8,0,0,1,0
+Skydiving,Parachute canopies are usually made from nylon fabric that lasts for thousands of jumps  whether the skydiver does or not.,Calm,"peaceful, tranquil, placid",-0.75,0,0,1,0
+Robin Williams,"1952 , versatile American comedian and actor. The furriest man in show business.",Dainty,"delicate, fragile, thin",-0.5,0,0,1,0
+Skydiving,Parachute canopies are usually made from nylon fabric that lasts for thousands of jumps  whether the skydiver does or not.,Delicious,"tasty, pleasing, appetizing",0.1,0,0,0,0
+My Past,What's past is past ... unless you're a politician ...,Stunning,"astonishing, staggering, astounding",0.3,0,0,0,0
+A Cheap Motel,No charge for the cockroaches.,Brilliant,"dazzling, gleaming, intelligent",-0.7,0,0,1,0
+Computers,British mathematician Charles Babbage worked out the principles of the modern digital computer in the late 1800s.,Sensual,"tactile, pleasing, sexual",-0.9,1,0,1,0
+Eleanor Roosevelt,"1884-1962, first lady, social activist, author, lecturer, and U.S. representative to the United Nations.",Nerdy,"unhip, uncool, dorky",-0.2,0,0,0,0
+Mold,Fuzzy growth produced on organic matter by several types of fungi. Particularly attracted to students' refrigerators,Frightening,"scary, horrifying, awesome",0.5,0,-1,0,0
+The Gulf War,"January  February, 1991. This six week conflict with Iraq was also known as ""Desert Storm.""",Cool,"chilly, hip, cold",-0.75,0,-1,1,0
+Blizzard,"Extreme cold, strong winds, and a head snowfall. Also known as Canada.",Nerdy,"unhip, uncool, dorky",0.0,0,0,0,0
+Quicksand,Just don't let it get you down.,Profound,"deep, wise, thoughtful",-0.2,0,0,0,0
+Pit Bulls,"Any of several crossbreeds of bulldogs with terriers. Or, several radio hosts we could mention.",Selfish,"stingy, greedy, miserly",-0.7,0,-1,1,0
+Superman,Fictional comic book superhero loved by Lois Lane and Jerry Seinfeld.,Normal,"usual, common, ordinary",-0.9,1,0,1,0
+The Indy 500,Contestants must drive the full 500 miles. Bathroom breaks ARE allowed.,Smooth,"even, level, flat",0.4,0,0,0,0
+King Henry VIII,"1491-1547, King of England, and founder of the Church of England. Six wives, no waiting.",Offensive,"insulting, vulgar, attacking",0.5,0,-1,0,0
+Blizzard,"Extreme cold, strong winds, and a head snowfall. Also known as Canada.",Hopeless,"pessimistic, desperate, downhearted",0.35,0,-1,0,0
+Snakes,"Surprising, snakes move rapidly without legs. Also surprising, they find OTHER snakes attractive.",Graceful,"elegant, supple, limber",0.7,0,1,0,0
+Gravity,"In 1684, the law of gravitation was formulated by English physicist Sir Isaac Newton, who recognized the gravity of the situation.",Luxurious,"opulent, lavish, sumptuous",0.1,0,0,1,0
+Bill Gates,"1955, chairman and chief software architect of Microsoft Corporation. A very rich guy.",Filthy,"dirty, foul, unclean",-0.2,0,-1,0,0
+Having An Operation,What a cutup! A real stitch.,Brilliant,"dazzling, gleaming, intelligent",0.2,0,0,0,0
+My First Kiss,"Sparks were flying. Of course, that could have been the braces ...",Swift,"quick, speedy, expeditious",0.5,0,1,0,0
+The Eiffel Tower,Designed and built by French engineer Alexandre Gustave Eiffel for the Paris World's Fair of 1889.,Influential,"powerful, prominent, important",0.75,0,1,0,0
+The Pyramids,"The Egyptian pyramids were built from about 2700 BC to about 1000 BC. Tut, tut, tut ...",Misunderstood,"not grasped, not learned, not absorbed",0.7,0,0,0,0
+Computers,British mathematician Charles Babbage worked out the principles of the modern digital computer in the late 1800s.,Loud,"noisy, boisterous, deafening",-0.6,0,0,1,0
+Commuting,The daily grind. And we're not talking coffee.,Ridiculous,"preposterous, absurd, ludicrous",0.6,0,-1,0,0
+Europe,The Old Country ... except to people who live there.,Hostile,"antagonistic, aggressive, warlike",0.3,0,-1,0,0
+Michael Jackson,"1958, American popular singer, dancer, and songwriter. Welcome to Neverland.",Radical,"unconventional, revolutionary, extreme",0.5,0,1,0,0
+Cactus,"Require little care and exhibit bizarre forms. As such, they are often mistaken for Survivalists.",Swift,"quick, speedy, expeditious",-0.5,0,0,1,0
+Going To School,Secondary education? It's elementary.,Soft,"malleable, pliable, mushy",-0.3,0,0,0,0
+"Martin Luther King, Jr.","1929-68, American civil rights leader and advocate of nonviolent resistance. Was assassinated for his efforts.",Luxurious,"opulent, lavish, sumptuous",-0.7,0,-1,1,0
+The Renaissance,"Beginning in the 1300s, started in Italy and spread across Europe. Kind of like Espresso bars ...",Hardworking,"industrious, diligent, busy",0.7,0,1,0,0
+Plastic,Giant molecules of organic polymeric materials. Bags and bags of the stuff.,Extreme,"exceptional, superlative, radical",-0.4,0,-1,0,0
+The Grateful Dead,"American rock band, founded in 1965 and best known for their ""Dead Head"" fans.",Filthy,"dirty, foul, unclean",-0.2,0,-1,0,0
+Brad Pitt,"1963 , American actor and heartthrob.",Important,"significant, substantial, momentous",0.35,0,0,0,0
+Rock Concert,If it's too loud  you're too old.,Masculine,"male, manly, virile",0.45,0,0,0,0
+The Beach,"A day at the beach is no day at the beach, ya know?",Outrageous,"shocking, scandalous, disgraceful",-0.4,0,0,0,0
+Steven Spielberg,"1947, American movie director and producer, and overachiever. From E.T. to Schindler's List... too many to list.",Smooth,"even, level, flat",0.3,0,0,0,0
+Chains,Gold or iron: name your shackles.,Animated,"lively, exuberant, spirited",-0.7,0,-1,0,0
+My Job,Love it or leave it.,Timeless,"classic, ageless, well",-0.5,0,0,0,0
+My Family,"They'll drive you nuts. As long as you do the same to them, it's all even.",Influential,"powerful, prominent, important",0.6,0,1,0,0
+Ghosts,Nonmaterial embodiments or the essence of organisms (mostly human beings). Quite spirited,Lucky,"fortunate, serendipitous, favored",-0.4,0,0,1,0
+Mud,Water. Dirt. You do the math.,Frightening,"scary, horrifying, awesome",0.2,0,-1,0,0
+The Rolling Stones,"British ""bad boy"" rock band formed in 1962. Still touring?",Delicious,"tasty, pleasing, appetizing",0.25,0,1,0,0
+Pumping Iron,When a great weight needs to be lifted.,Scary,"frightening, absurd, ugly",0.4,0,-1,0,0
+The Electric Chair,"In U.S. prisons, an alternating current of about 2000 volts is used for electrocution.",Frazzled,"exhausted, frayed, worn",0.5,0,-1,0,0
+Terrorist Attack,We will never negotiate with terrorists.,Luxurious,"opulent, lavish, sumptuous",-0.8,0,-1,1,0
+The Renaissance,"Beginning in the 1300s, started in Italy and spread across Europe. Kind of like Espresso bars ...",Loud,"noisy, boisterous, deafening",-0.2,0,0,0,0
+Getting A Hug,Hmmmm ... nice.,Scary,"frightening, absurd, ugly",-0.7,0,-1,1,0
+The JFK Assassination,"November 22, 1963. The funeral of President Kennedy was watched on television by millions around the world.",Ancient,"elderly, old, antique",-0.8,0,-1,1,0
+Mexico,Federal republic in North America. The capital and largest city is Mexico City.,Delicate,"dainty, tender, elegant",-0.3,0,0,0,0
+My High School Prom,As if adolescence isn't awkward and painful enough ...,Boring,"dull, tedious, monotonous",-0.3,0,-1,0,0
+Chains,Gold or iron: name your shackles.,Perfect,"faultless, consummate, exact",-0.5,0,-1,0,0
+Chains,Gold or iron: name your shackles.,Wicked,"evil, corrupt, depraved",0.5,0,-1,0,0
+Having An Operation,What a cutup! A real stitch.,Arrogant,"egotistical, overconfident, conceited",-0.2,0,-1,0,0
+Claude Monet,"1840-1926, French painter, regarded as one of the leaders on the impressionist movement.",Rich,"wealthy, affluent, moneyed",0.75,0,1,0,0
+Barney,"Purple dinosaur. ""I love you, you love me, blah, blah, blah ... """,Primitive,"prehistoric, primal, uncivilized",0.2,1,0,0,0
+My First Kiss,"Sparks were flying. Of course, that could have been the braces ...",Perfect,"faultless, consummate, exact",-0.2,0,1,0,0
+Lucille Ball,"1911-89, American actor and comedian. You love Lucy? I love Lucy.",Industrious,"diligent, busy, hard",0.8,0,1,0,0
+Stephen King,"1947 , American author of horror novels, who's sold more than 100 million copies of his books. Talk about frightening ...",Odd,"different, eccentric, bizarre",0.6,0,0,0,0
+Baby Showers,Baby showers may bring flowers ...,Fabulous,"marvelous, wonderful, incredible",0.7,0,1,0,0
+Snow,Transparent ice crystals which form around dust and other small particles. Get my drift?,Primitive,"prehistoric, primal, uncivilized",0.1,0,0,0,0
+John F. Kennedy,"1917-63, 35th president of the US. ""Ask not what your country can do for you; ask what you can do for your country.""",Horrifying,"offensive, abominable, disgusting",0.3,0,-1,0,0
+William Shakespeare,"1564-1616, The English poet and playwright. And all the world IS a stage ...",Arrogant,"egotistical, overconfident, conceited",-0.2,0,-1,0,0
+Weddings,"""Ding, dong, the bells are gonna chime ..."" My Fair Lady",Fabulous,"marvelous, wonderful, incredible",0.85,0,1,0,0
+Bubbles,"""Tiny bubbles, in the wine/ Tiny bubble make me feel fine ..."" Don Ho",Graceful,"elegant, supple, limber",0.6,0,1,0,0
+Thomas Edison,"18471931, American inventor, developed a light bulb, generator, soundrecorder, and motion picture projector. Show off.",Wicked,"evil, corrupt, depraved",0.35,0,-1,0,0
+The South,Dixie: South of the MasonDixon line that is. They're not like folks 'round here ...,Influential,"powerful, prominent, important",0.6,0,0,0,0
+Barney,"Purple dinosaur. ""I love you, you love me, blah, blah, blah ... """,Timeless,"classic, ageless, well",-0.2,0,1,0,0
+A Cheap Motel,No charge for the cockroaches.,Crazed,"insane, wild, deranged",0.2,0,-1,0,0
+Napoleon Bonaparte,"1769-1821, Emperor of France. Met his Waterloo at the Battle of Waterloo. The name should have tipped him off ...",Mischievous,"naughty, prankish, sly",-0.5,0,0,1,0
+Discovering America,"1492, Christopher Columbus discovered that America was discovered centuries before he arrived.",Adorable,"lovable, charming, delightful",-0.9,0,-1,1,0
+Hawaii,"The eight islands that make up America's 50th state entered the Union on August 21, 1959.",Scary,"frightening, absurd, ugly",-0.7,0,0,0,0
+Tree Huggers,"""Environmentalists"" to the left. ""Wackos"" to the right.",Industrious,"diligent, busy, hard",0.2,0,0,0,0
+The Marx Brothers,"Chico, Groucho, Harpo, amd sometimes Zeppo. Their 1930s films include Duck Soup and Animal Crackers.",Ancient,"elderly, old, antique",-0.6,0,0,1,0
+The French Riviera,"Holiday home of the rich, the famous, and the halfnaked.",Courageous,"brave, gallant, dauntless",-0.5,0,0,0,0
+A Sunset,The sun never set on the British Empire ... because God didn't trust the English in the dark.,Courageous,"brave, gallant, dauntless",-0.2,0,1,0,0
+Thomas Edison,"18471931, American inventor, developed a light bulb, generator, soundrecorder, and motion picture projector. Show off.",Charming,"captivating, enchanting, fascinating",-0.2,0,0,0,0
+Mark Twain,"1835-1910, American writer and humorist, best known for the adventures of Tom Sawyer and Huckleberry Finn.",Important,"significant, substantial, momentous",0.8,0,1,0,0
+Hooligans,"""Hey! Kids! Get outta my yard!""",Outrageous,"shocking, scandalous, disgraceful",0.9,0,-1,0,0
+Pit Bulls,"Any of several crossbreeds of bulldogs with terriers. Or, several radio hosts we could mention.",Radical,"unconventional, revolutionary, extreme",0.25,0,0,0,0
+Firestorms,"Some severe wildfires require more than 10,000 firefighters. And, wouldn't ya know it, some idiot parked in front of the hydrant!",Powerful,"strong, forceful, robust",1.0,0,-1,0,0
