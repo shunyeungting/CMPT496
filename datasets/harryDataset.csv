@@ -129,3 +129,53 @@ Clint Eastwood,"1930, American film actor and director, past mayor of Carmel, Ca
 California,"Sacramento is its capital, Los Angeles its largest city. Here we come.",Pure,"innocent, unadulterated, chaste",-0.03,0,0,1,0
 Firefighters,"Emperor Augustus instituted a corps of firefighting ""watchmen"" in 24 B.C. Nero, on the other hand, fiddled while Rome burned.",Smooth,"even, level, flat",0.0,0,0,0,0
 Katherine Hepburn,"1909-2003, American actor and winner of four Academy Awards. She starred in such classics as The African Queen.",Rich,"wealthy, affluent, moneyed",0.03,0,1,0,0
+Robin Williams,"1952 , versatile American comedian and actor. The furriest man in show business.",Temperamental,"moody, irritable, short",0.18,0,0,0,0
+My Family,"They'll drive you nuts. As long as you do the same to them, it's all even.",Phony,"false, artificial, imitation",-0.38,0,0,0,0
+Chimpanzees,"Sure, they're related to us; but they don't write, and they NEVER call!",Sexy,"arousing, appealing, seductive",-0.29,1,-1,0,0
+Alfred Hitchcock,"1899-1980, Britishborn American director and producer of brilliant psychological thrillers. Right, mother? MOTHER!",Mischievous,"naughty, prankish, sly",0.09,0,0,0,0
+The Gulf War,"January  February, 1991. This six week conflict with Iraq was also known as ""Desert Storm.""",Dramatic,"exciting, sensational, theatrical",0.26,0,0,0,0
+Friction,Resistance to the motion of a body in contact with another body ... any body will do.,Distinguished,"dignified, extraordinary, acclaimed",0.09,0,0,0,0
+High School Football,The whole ten yards!,Adorable,"lovable, charming, delightful",-0.12,0,1,0,0
+Leather,Animal hide. Leather you like it or not.,Sensual,"tactile, pleasing, sexual",0.0,0,0,0,0
+Teachers,"If you can play this game, thank a teacher.",Earthy,"unrefined, natural, crude",0.0,0,0,0,0
+Money,"""The best things in life are free/ But you can give them to the birds and bees/ Just give me money ..."" Bradford and Gordy",Inspirational,"exhilarating, inspiring, stimulating",0.38,0,1,0,0
+The 1950s,"Pros: Barbies, barbecues, and bikinis. Cons: McCarthy, the Korean War, television.",Radical,"unconventional, revolutionary, extreme",0.68,0,0,0,0
+Pablo Picasso,"1881-1973, Spanish painter and sculptor, one of the greatest artists of the 20th century. If only he could draw eyes ...",Important,"significant, substantial, momentous",0.53,0,0,0,0
+Homework,"Finally, something to do during commercials.",Idiotic,"foolish, dumb, moronic",-0.35,0,0,0,0
+My Boss,... is an idiot. You know it; we know it.,Awkward,"clumsy, bumbling, uncoordinated",0.12,1,-1,0,0
+Baked Potatoes,"Hot potato, couch potato, potato head, twice baked, halfbaked, ... whatever.",Hostile,"antagonistic, aggressive, warlike",0.0,0,0,0,0
+My Mind,It's a terrible thing to waste.,Influential,"powerful, prominent, important",0.5,0,1,0,0
+The Dump,Just remember to recycle.,Horrifying,"offensive, abominable, disgusting",0.09,0,-1,0,1
+My Future,"""The future's so bright, I gotta wear shades ..."" Timbuk3",Feminine,"womanly, ladylike, unmanly",0.0,0,0,0,0
+Top Of A Rollercoaster,Just remember: what goes UP ...,Crazed,"insane, wild, deranged",0.38,1,1,0,0
+Custer's Last Stand,"1866, Little Big Horn. Very big mistake.",Luxurious,"opulent, lavish, sumptuous",0.0,0,0,0,0
+A Sunrise,"""But he who kisses the joy as it flies/ Lives in eternity's sunrise."" William Blake",Lucky,"fortunate, serendipitous, favored",0.24,0,1,0,0
+Running A Marathon,"26 miles, 385 yards: the distance run by a Greek soldier from the town of Marathon to Athens in 490 BC.",Radical,"unconventional, revolutionary, extreme",-0.24,0,-1,0,0
+Cow,"Pies  When dried, these ""cow chips"" are hurled discuslike over great distances. It's true.",Lucky,"fortunate, serendipitous, favored",-0.26,0,0,1,0
+Computers,British mathematician Charles Babbage worked out the principles of the modern digital computer in the late 1800s.,Ridiculous,"preposterous, absurd, ludicrous",0.0,0,0,0,0
+Mexico,Federal republic in North America. The capital and largest city is Mexico City.,Profound,"deep, wise, thoughtful",0.0,0,0,0,0
+Elizabeth Taylor,"1932 , American actor, noted for her lush beauty, emotional performances and multiple husbands.",Perfect,"faultless, consummate, exact",0.21,0,1,0,0
+At My Parent's House,"Like nevernever land, you're never seen as an adult here.",Offensive,"insulting, vulgar, attacking",0.47,1,-1,0,0
+The Marx Brothers,"Chico, Groucho, Harpo, amd sometimes Zeppo. Their 1930s films include Duck Soup and Animal Crackers.",Handsome,"attractive, elegant, fine",0.26,0,1,0,0
+The Mississippi River,"The Algonquin words ""Misi sipi"" mean ""big river."" What's Algonquin for ""muddy""?",Fabulous,"marvelous, wonderful, incredible",0.06,0,1,0,0
+Mahatma Gandhi,"1869-1948, Indian leader and philosopher who preached nonviolence. Was assassinated for his efforts.",Offensive,"insulting, vulgar, attacking",-0.26,0,-1,0,0
+A High School Bathroom,"""Fools rush in where angels fear to tread"" Alexander Pope",Juicy,"wet, squishy",-0.38,1,-1,1,0
+Apple Juice,Baby's first juice.,Good,"not bad, fine",0.47,0,1,0,0
+Paying Bills,"Also known as ""Debt Restructuring.""",Shiny,"bright, glossy",-0.15,0,0,0,0
+Elvis Presley,"1935-77, American singer and actor and the king of rockandroll. His death left the music world all shook up.",Saintly,"virtuous, angelic, divine",0.0,0,0,0,0
+Riding A Horse,Grab the reins and hang on!,Temperamental,"moody, irritable, short",0.06,0,0,0,0
+Cowboys,Men who take care of cattle on a ranch.,Crazed,"insane, wild, deranged",0.32,1,1,0,0
+Bert And Ernie,Two nice guys in striped shirts who live on Sesame Street.,Loud,"noisy, not quiet",-0.26,0,0,0,0
+Mittens,"""Three little kittens; they lost their mittens.""",Tiny,"little, very small",0.0,0,0,0,0
+Dr. Kevorkin,"1928 , Controversial advocate of doctorassisted suicide.",Feminine,"womanly, ladylike, unmanly",-0.09,0,0,0,0
+My Mom,"Mother, Mommy, Mama.",Odd,"different, eccentric, bizarre",0.18,0,-1,0,0
+My Body,"Mine is a temple. Specifically, the Temple of Doom ...",Awkward,"clumsy, bumbling, uncoordinated",0.03,1,-1,0,0
+Batman,A superhero who wears a black mask and cape. He drives the Batmobile.,Charming,"captivating, enchanting, fascinating",0.24,1,1,0,0
+Trains,"""The Little Engine That Could"" is a story about a train that climbs over a mountain.",Perfect,"faultless, consummate, exact",0.0,0,0,0,0
+Captain Kirk,"Fictional starship captain. ""Beam me up Scotty, there is no intelligent life on this planet!""  bumper sticker, 1980s",Tasty,"flavorful, yummy",-0.18,0,0,0,0
+Cockroaches,"Annoying insects that can survive a nuclear war. Fortunately, they can't survive the heel of your shoe.",Nice,"pleasant, kind",-0.38,0,-1,1,0
+Catfish,Fish with feelers that look like whiskers.,Filthy,"dirty, foul, unclean",0.06,0,0,0,0
+Funerals,"""He who dies with the most toys is, nonetheless, still dead.""  Anonymous",Cute,"pretty, good",-0.47,0,-1,0,0
+Marriage,If love and marriage go together like a horse and carriage ... who's the horse?,Creepy,"spooky, scary",-0.12,1,0,1,0
+Bangkok,Capital of Thailand. Location: near the Gulf of Siam. Population: five million. Reputation: seedy.,Principled,"conscientious, ethical, scrupulous",-0.09,0,0,0,0
+Skinheads,"Shaved heads, big boots. Some are Nazis, some are not.",Lively,"cheerful, active",-0.18,0,0,0,1
